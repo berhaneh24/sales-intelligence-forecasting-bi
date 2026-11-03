@@ -1,0 +1,24 @@
+ENTERPRISE SALES INTELLIGENCE & FORECASTING
+
+Independent Business Intelligence Portfolio Case Study
+All business data and entities are synthetic and fictional.
+
+Business Scenario
+
+Sales leadership is preparing for a quarterly business review and needs greater confidence in reported pipeline values, revenue forecasts, and sales performance.
+
+The underlying CRM data contains duplicate records, incomplete attributes, and process inconsistencies that could affect reporting accuracy.
+
+Analytical Objective
+
+Evaluate CRM data quality, assess pipeline health and forecast credibility, investigate quota and opportunity-level risks, and develop decision-ready reporting with recommendations for senior leadership.
+
+Original Data Snapshot
+
+August 17, 2026
+
+Data Validation Approach
+
+Original source records are preserved for traceability. SQL, Excel, and Power BI support data profiling, quality validation, financial reconciliation, and forecast-risk analysis. A separate Salesforce CRM simulation supports opportunity import validation and executive reporting.
+
+The project reflects independent analytical work using synthetic data, not a production implementation for an actual organization.

@@ -1,0 +1,19 @@
+﻿Sales_Rep_ID,Sales_Rep_Name,Region,Manager,Hire_Date,Active_Flag
+REP-001,Avery Brooks,Mid-Atlantic,Dana Mitchell,2022-11-16,Y
+REP-002,Jordan Chen,Mid-Atlantic,Dana Mitchell,2021-08-05,Y
+REP-003,Morgan Davis,Northeast,Dana Mitchell,2024-06-10,Y
+REP-004,Taylor Evans,Northeast,Dana Mitchell,2023-07-07,Y
+REP-005,Riley Foster,Southeast,Dana Mitchell,2022-04-13,Y
+REP-006,Cameron Green,Southeast,Dana Mitchell,2022-03-17,N
+REP-007,Parker Hayes,Central,Chris Walker,2024-05-10,Y
+REP-008,Casey Irwin,Central,Chris Walker,2023-11-06,Y
+REP-009,Drew Johnson,West,Chris Walker,2024-09-27,Y
+REP-010,Reese Kim,West,Chris Walker,2022-09-17,Y
+REP-011,Quinn Lewis,International,Chris Walker,2024-09-17,Y
+REP-012,Skyler Martin,International,Chris Walker,2024-06-05,Y
+REP-013,Alex Nguyen,Mid-Atlantic,Sam Rivera,2023-10-06,Y
+REP-014,Jamie Ortiz,Northeast,Sam Rivera,2025-01-04,Y
+REP-015,Rowan Patel,Southeast,Sam Rivera,2022-12-11,Y
+REP-016,Dakota Reed,Central,Sam Rivera,2024-06-24,Y
+REP-017,Emerson Scott,West,Sam Rivera,2022-04-24,N
+REP-018,Blake Turner,International,Sam Rivera,2024-02-24,Y

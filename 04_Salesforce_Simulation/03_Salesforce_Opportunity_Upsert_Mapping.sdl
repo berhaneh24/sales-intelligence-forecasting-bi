@@ -1,0 +1,15 @@
+#Mapping values
+#Tue Oct 20 17:58:35 EDT 2026
+CloseDate=CloseDate
+Name=Name
+Region__c=Region__c
+Source_Opportunity_ID__c=Source_Opportunity_ID__c
+Account_External_ID=Account\:Account-Source_Account_ID__c
+Segment__c=Segment__c
+Sales_Rep__c=Sales_Rep__c
+Product_Family__c=Product_Family__c
+StageName=StageName
+Amount=Amount
+Probability=Probability
+ForecastCategoryName=ForecastCategoryName
+NextStep=NextStep

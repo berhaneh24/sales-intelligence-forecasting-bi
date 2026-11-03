@@ -1,0 +1,7 @@
+﻿Product_ID,Product_Family,Description,Typical_Deal_Size_Multiplier
+PRD-001,Cross Domain Solutions,Secure cross-domain information sharing,1.35
+PRD-002,Secure Access,Controlled secure access for sensitive environments,0.9
+PRD-003,Insider Risk,User and data activity risk analytics,0.75
+PRD-004,Threat Protection,Threat detection and content protection,0.8
+PRD-005,Secure Data Connectivity,Trusted data movement and connectivity,1.1
+PRD-006,Professional Services,"Implementation, advisory, and enablement services",0.3

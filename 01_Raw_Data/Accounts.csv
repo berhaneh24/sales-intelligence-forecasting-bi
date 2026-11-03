@@ -1,0 +1,321 @@
+﻿Account_ID,Account_Name,Segment,Region,Account_Tier,Industry,Customer_Status
+ACC-0001,Liberty Systems 001,Department of Defense,West,Growth,Technology,Customer
+ACC-0002,Redwood Agency 002,Critical Infrastructure,Northeast,Growth,Technology,Customer
+ACC-0003,Ironwood Services 003,Federal Civilian,Central,Strategic,Critical Infrastructure,Prospect
+ACC-0004,Falcon Agency 004,Federal Civilian,Mid-Atlantic,Enterprise,Federal Government,Former Customer
+ACC-0005,Northstar Technologies 005,Allied Government,International,Enterprise,Technology,Customer
+ACC-0006,Crescent Security 006,Critical Infrastructure,Northeast,Strategic,Federal Government,Prospect
+ACC-0007,Horizon Networks 007,Federal Civilian,Southeast,Growth,Healthcare,Customer
+ACC-0008,Cedar Agency 008,Federal Civilian,Mid-Atlantic,Enterprise,Critical Infrastructure,Prospect
+ACC-0009,Orion Group 009,Federal Civilian,International,Enterprise,Healthcare,Prospect
+ACC-0010,Horizon Agency 010,Department of Defense,West,Growth,Technology,Prospect
+ACC-0011,Sterling Command 011,Department of Defense,Northeast,Enterprise,Financial Services,Customer
+ACC-0012,Sterling Command 012,Department of Defense,Mid-Atlantic,Enterprise,Critical Infrastructure,Former Customer
+ACC-0013,Crescent Infrastructure 013,Federal Civilian,Mid-Atlantic,Enterprise,Healthcare,Prospect
+ACC-0014,Summit Agency 014,Federal Civilian,Southeast,Growth,Defense,Prospect
+ACC-0015,Crescent Services 015,Department of Defense,Southeast,Growth,Financial Services,Prospect
+ACC-0016,Summit Agency 016,Federal Civilian,International,Strategic,Healthcare,Prospect
+ACC-0017,Liberty Systems 017,Federal Civilian,Central,Enterprise,Intelligence,Former Customer
+ACC-0018,Cedar Systems 018,Department of Defense,Southeast,Growth,Technology,Customer
+ACC-0019,Vanguard Agency 019,Department of Defense,Central,Enterprise,Defense,Prospect
+ACC-0020,Aegis Technologies 020,Department of Defense,Central,Enterprise,Intelligence,Prospect
+ACC-0021,Harbor Group 021,Federal Civilian,West,Growth,Healthcare,Customer
+ACC-0022,Crescent Group 022,Department of Defense,International,Enterprise,Critical Infrastructure,Prospect
+ACC-0023,Redwood Command 023,Federal Civilian,International,Enterprise,Healthcare,Prospect
+ACC-0024,Harbor Agency 024,Federal Civilian,Mid-Atlantic,Enterprise,Aerospace,Prospect
+ACC-0025,Orion Systems 025,Federal Civilian,Southeast,Growth,Federal Government,Customer
+ACC-0026,Orion Infrastructure 026,Allied Government,Central,Enterprise,Intelligence,Prospect
+ACC-0027,Liberty Networks 027,Intelligence Community,West,Enterprise,Financial Services,Customer
+ACC-0028,Sentinel Group 028,Federal Civilian,West,Growth,Healthcare,Prospect
+ACC-0029,Liberty Systems 029,Federal Civilian,Central,Enterprise,Defense,Prospect
+ACC-0030,Keystone Technologies 030,Allied Government,Central,Enterprise,Intelligence,Prospect
+ACC-0031,Crescent Command 031,Regulated Commercial,International,Growth,Healthcare,Prospect
+ACC-0032,Sterling Operations 032,Department of Defense,Southeast,Enterprise,Aerospace,Customer
+ACC-0033,Pioneer Infrastructure 033,Regulated Commercial,Central,Enterprise,Intelligence,Prospect
+ACC-0034,Blue Ridge Networks 034,Regulated Commercial,Mid-Atlantic,Growth,Financial Services,Customer
+ACC-0035,Atlas Command 035,Regulated Commercial,Mid-Atlantic,Enterprise,Healthcare,Prospect
+ACC-0036,Ironwood Research 036,Department of Defense,Southeast,Growth,Critical Infrastructure,Prospect
+ACC-0037,Liberty Networks 037,Federal Civilian,Mid-Atlantic,Growth,Defense,Customer
+ACC-0038,Liberty Services 038,Critical Infrastructure,International,Growth,Critical Infrastructure,Prospect
+ACC-0039,Horizon Solutions 039,Department of Defense,West,Enterprise,Healthcare,Prospect
+ACC-0040,Crescent Agency 040,Intelligence Community,Central,Strategic,Aerospace,Prospect
+ACC-0041,Beacon Technologies 041,Critical Infrastructure,Mid-Atlantic,Growth,Technology,Prospect
+ACC-0042,Pioneer Group 042,Intelligence Community,Northeast,Enterprise,Aerospace,Prospect
+ACC-0043,Keystone Services 043,Federal Civilian,West,Strategic,Technology,Customer
+ACC-0044,Redwood Systems 044,Federal Civilian,Mid-Atlantic,Enterprise,Intelligence,Customer
+ACC-0045,Keystone Infrastructure 045,Federal Civilian,Mid-Atlantic,Enterprise,Financial Services,Prospect
+ACC-0046,Cedar Agency 046,Regulated Commercial,International,Growth,Intelligence,Prospect
+ACC-0047,Blue Ridge Solutions 047,Critical Infrastructure,West,Enterprise,Financial Services,Prospect
+ACC-0048,Sterling Solutions 048,Intelligence Community,Central,Strategic,Federal Government,Customer
+ACC-0049,Sentinel Security 049,Federal Civilian,Southeast,Strategic,Federal Government,Customer
+ACC-0050,Liberty Systems 050,Department of Defense,Mid-Atlantic,Enterprise,Defense,Former Customer
+ACC-0051,Keystone Security 051,Federal Civilian,Southeast,Growth,Healthcare,Prospect
+ACC-0052,Atlas Command 052,Regulated Commercial,Central,Enterprise,Intelligence,Prospect
+ACC-0053,Harbor Command 053,Allied Government,Central,Enterprise,Federal Government,Prospect
+ACC-0054,Keystone Operations 054,Department of Defense,Northeast,Strategic,Financial Services,Prospect
+ACC-0055,Summit Infrastructure 055,Regulated Commercial,Central,Growth,Aerospace,Prospect
+ACC-0056,Keystone Solutions 056,Critical Infrastructure,Southeast,Enterprise,Intelligence,Customer
+ACC-0057,Ironwood Solutions 057,Regulated Commercial,Central,Enterprise,Technology,Customer
+ACC-0058,Vanguard Systems 058,Federal Civilian,Northeast,Enterprise,Intelligence,Customer
+ACC-0059,Sterling Infrastructure 059,Regulated Commercial,West,Strategic,Technology,Customer
+ACC-0060,Summit Agency 060,Regulated Commercial,West,Growth,Intelligence,Prospect
+ACC-0061,Ironwood Agency 061,Allied Government,Central,Enterprise,Federal Government,Customer
+ACC-0062,Beacon Technologies 062,Department of Defense,Southeast,Enterprise,Aerospace,Customer
+ACC-0063,Harbor Agency 063,Federal Civilian,Mid-Atlantic,Growth,Intelligence,Prospect
+ACC-0064,Falcon Technologies 064,Intelligence Community,Northeast,Growth,Defense,Former Customer
+ACC-0065,Harbor Operations 065,Department of Defense,Southeast,Growth,Financial Services,Prospect
+ACC-0066,Vanguard Security 066,Critical Infrastructure,International,Growth,Aerospace,Customer
+ACC-0067,Aegis Group 067,Department of Defense,Southeast,Strategic,Financial Services,Former Customer
+ACC-0068,Northstar Group 068,Allied Government,Mid-Atlantic,Growth,Critical Infrastructure,Prospect
+ACC-0069,Aegis Agency 069,Federal Civilian,Southeast,Strategic,Healthcare,Prospect
+ACC-0070,Sentinel Group 070,Intelligence Community,West,Enterprise,Aerospace,Former Customer
+ACC-0071,Keystone Services 071,Department of Defense,Mid-Atlantic,Growth,Intelligence,Prospect
+ACC-0072,Crescent Systems 072,Critical Infrastructure,International,Enterprise,Aerospace,Former Customer
+ACC-0073,Blue Ridge Technologies 073,Critical Infrastructure,Northeast,Growth,Critical Infrastructure,Former Customer
+ACC-0074,Horizon Technologies 074,Regulated Commercial,International,Strategic,Defense,Prospect
+ACC-0075,Liberty Command 075,Federal Civilian,Central,Enterprise,Critical Infrastructure,Customer
+ACC-0076,Orion Systems 076,Federal Civilian,West,Growth,Healthcare,Prospect
+ACC-0077,Atlas Services 077,Intelligence Community,Central,Enterprise,Federal Government,Prospect
+ACC-0078,Crescent Operations 078,Allied Government,Central,Enterprise,Aerospace,Prospect
+ACC-0079,Falcon Security 079,Critical Infrastructure,Central,Enterprise,Financial Services,Customer
+ACC-0080,Summit Research 080,Department of Defense,West,Growth,Healthcare,Prospect
+ACC-0081,Keystone Services 081,Intelligence Community,Northeast,Strategic,Defense,Prospect
+ACC-0082,Aegis Agency 082,Federal Civilian,Southeast,Growth,Critical Infrastructure,Customer
+ACC-0083,Summit Technologies 083,Regulated Commercial,Southeast,Strategic,Defense,Customer
+ACC-0084,Vanguard Networks 084,Critical Infrastructure,International,Enterprise,Aerospace,Customer
+ACC-0085,Atlas Networks 085,Intelligence Community,Central,Growth,Aerospace,Prospect
+ACC-0086,Beacon Solutions 086,Federal Civilian,Central,Enterprise,Federal Government,Prospect
+ACC-0087,Orion Group 087,Federal Civilian,Central,Enterprise,Aerospace,Customer
+ACC-0088,Orion Research 088,Federal Civilian,West,Enterprise,Financial Services,Prospect
+ACC-0089,Atlas Systems 089,Department of Defense,Mid-Atlantic,Growth,Federal Government,Prospect
+ACC-0090,Beacon Command 090,Critical Infrastructure,Mid-Atlantic,Enterprise,Defense,Prospect
+ACC-0091,Northstar Technologies 091,Department of Defense,Northeast,Enterprise,Healthcare,Prospect
+ACC-0092,Summit Security 092,Department of Defense,Northeast,Enterprise,Financial Services,Prospect
+ACC-0093,Harbor Agency 093,Regulated Commercial,West,Growth,Critical Infrastructure,Customer
+ACC-0094,Sterling Operations 094,Critical Infrastructure,Central,Growth,Intelligence,Customer
+ACC-0095,Redwood Operations 095,Regulated Commercial,International,Growth,Critical Infrastructure,Prospect
+ACC-0096,Atlas Infrastructure 096,Regulated Commercial,Mid-Atlantic,Strategic,Defense,Prospect
+ACC-0097,Cedar Services 097,Federal Civilian,International,Strategic,Financial Services,Customer
+ACC-0098,Northstar Technologies 098,Regulated Commercial,West,Enterprise,Defense,Prospect
+ACC-0099,Harbor Agency 099,Critical Infrastructure,International,Growth,Defense,Prospect
+ACC-0100,Ironwood Group 100,Department of Defense,International,Enterprise,Financial Services,Prospect
+ACC-0101,Beacon Technologies 101,Regulated Commercial,Northeast,Growth,Aerospace,Prospect
+ACC-0102,Keystone Agency 102,Department of Defense,International,Strategic,Financial Services,Prospect
+ACC-0103,Cedar Networks 103,Department of Defense,Northeast,Growth,Federal Government,Prospect
+ACC-0104,Beacon Security 104,Regulated Commercial,International,Enterprise,Critical Infrastructure,Customer
+ACC-0105,Atlas Services 105,Federal Civilian,Central,Enterprise,Healthcare,Customer
+ACC-0106,Summit Command 106,Allied Government,West,Enterprise,Healthcare,Prospect
+ACC-0107,Sterling Research 107,Critical Infrastructure,Central,Enterprise,Critical Infrastructure,Prospect
+ACC-0108,Blue Ridge Solutions 108,Allied Government,West,Enterprise,Defense,Former Customer
+ACC-0109,Liberty Infrastructure 109,Critical Infrastructure,Northeast,Growth,Federal Government,Customer
+ACC-0110,Harbor Security 110,Federal Civilian,Mid-Atlantic,Enterprise,Defense,Customer
+ACC-0111,Keystone Technologies 111,Critical Infrastructure,West,Enterprise,Aerospace,Customer
+ACC-0112,Liberty Security 112,Regulated Commercial,Mid-Atlantic,Strategic,Federal Government,Customer
+ACC-0113,Aegis Networks 113,Department of Defense,Northeast,Growth,Aerospace,Prospect
+ACC-0114,Falcon Networks 114,Federal Civilian,Northeast,Strategic,Technology,Prospect
+ACC-0115,Horizon Systems 115,Federal Civilian,Southeast,Enterprise,Federal Government,Customer
+ACC-0116,Horizon Operations 116,Regulated Commercial,Mid-Atlantic,Strategic,Aerospace,Prospect
+ACC-0117,Summit Technologies 117,Regulated Commercial,Southeast,Strategic,Financial Services,Prospect
+ACC-0118,Sentinel Security 118,Regulated Commercial,International,Strategic,Intelligence,Prospect
+ACC-0119,Harbor Systems 119,Critical Infrastructure,International,Enterprise,Critical Infrastructure,Customer
+ACC-0120,Aegis Technologies 120,Regulated Commercial,Southeast,Enterprise,Healthcare,Prospect
+ACC-0121,Northstar Technologies 121,Allied Government,West,Growth,Technology,Prospect
+ACC-0122,Sentinel Command 122,Department of Defense,Central,Enterprise,Intelligence,Prospect
+ACC-0123,Vanguard Command 123,Critical Infrastructure,West,Strategic,Financial Services,Prospect
+ACC-0124,Atlas Group 124,Federal Civilian,International,Growth,Intelligence,Customer
+ACC-0125,Redwood Networks 125,Critical Infrastructure,International,Enterprise,Financial Services,Prospect
+ACC-0126,Sterling Group 126,Federal Civilian,Mid-Atlantic,Strategic,Critical Infrastructure,Prospect
+ACC-0127,Horizon Infrastructure 127,Regulated Commercial,Mid-Atlantic,Strategic,Technology,Prospect
+ACC-0128,Horizon Infrastructure 128,Department of Defense,Southeast,Growth,Intelligence,Prospect
+ACC-0129,Beacon Infrastructure 129,Federal Civilian,Southeast,Growth,Technology,Customer
+ACC-0130,Atlas Solutions 130,Federal Civilian,Northeast,Strategic,Financial Services,Customer
+ACC-0131,Blue Ridge Security 131,Critical Infrastructure,West,Enterprise,Intelligence,Prospect
+ACC-0132,Keystone Command 132,Federal Civilian,Southeast,Growth,Defense,Prospect
+ACC-0133,Liberty Solutions 133,Critical Infrastructure,West,Growth,Technology,Customer
+ACC-0134,Summit Services 134,Critical Infrastructure,Central,Enterprise,Defense,Customer
+ACC-0135,Pioneer Services 135,Regulated Commercial,Northeast,Enterprise,Healthcare,Customer
+ACC-0136,Aegis Security 136,Department of Defense,West,Growth,Intelligence,Customer
+ACC-0137,Pioneer Technologies 137,Federal Civilian,International,Growth,Critical Infrastructure,Customer
+ACC-0138,Summit Technologies 138,Department of Defense,Mid-Atlantic,Enterprise,Financial Services,Prospect
+ACC-0139,Pioneer Solutions 139,Department of Defense,Southeast,Growth,Defense,Prospect
+ACC-0140,Aegis Research 140,Department of Defense,West,Growth,Federal Government,Customer
+ACC-0141,Liberty Services 141,Intelligence Community,West,Strategic,Defense,Prospect
+ACC-0142,Blue Ridge Services 142,Department of Defense,International,Enterprise,Financial Services,Customer
+ACC-0143,Orion Command 143,Allied Government,West,Enterprise,Federal Government,Prospect
+ACC-0144,Northstar Systems 144,Allied Government,Central,Enterprise,Technology,Customer
+ACC-0145,Keystone Services 145,Regulated Commercial,Northeast,Enterprise,Intelligence,Customer
+ACC-0146,Blue Ridge Group 146,Allied Government,Northeast,Enterprise,Technology,Prospect
+ACC-0147,Orion Systems 147,Federal Civilian,Central,Enterprise,Aerospace,Prospect
+ACC-0148,Aegis Infrastructure 148,Regulated Commercial,Mid-Atlantic,Growth,Intelligence,Customer
+ACC-0149,Horizon Research 149,Department of Defense,International,Enterprise,Financial Services,Customer
+ACC-0150,Keystone Research 150,Department of Defense,Northeast,Enterprise,Technology,Prospect
+ACC-0151,Crescent Research 151,Critical Infrastructure,International,Growth,Aerospace,Customer
+ACC-0152,Harbor Technologies 152,Department of Defense,Central,Strategic,Financial Services,Customer
+ACC-0153,Beacon Operations 153,Federal Civilian,Mid-Atlantic,Enterprise,Intelligence,Customer
+ACC-0154,Summit Networks 154,Federal Civilian,West,Strategic,Aerospace,Prospect
+ACC-0155,Pioneer Technologies 155,Department of Defense,Southeast,Enterprise,Intelligence,Customer
+ACC-0156,Aegis Security 156,Intelligence Community,Southeast,Enterprise,Aerospace,Customer
+ACC-0157,Sterling Infrastructure 157,Regulated Commercial,Central,Growth,Federal Government,Prospect
+ACC-0158,Sentinel Research 158,Critical Infrastructure,Southeast,Enterprise,Financial Services,Prospect
+ACC-0159,Sterling Research 159,Department of Defense,Central,Growth,Critical Infrastructure,Customer
+ACC-0160,Pioneer Infrastructure 160,Allied Government,West,Enterprise,Federal Government,Prospect
+ACC-0161,Summit Solutions 161,Department of Defense,Mid-Atlantic,Growth,Intelligence,Customer
+ACC-0162,Northstar Systems 162,Department of Defense,Southeast,Enterprise,Critical Infrastructure,Prospect
+ACC-0163,Falcon Command 163,Regulated Commercial,International,Enterprise,Critical Infrastructure,Customer
+ACC-0164,Vanguard Command 164,Regulated Commercial,Central,Strategic,Intelligence,Customer
+ACC-0165,Orion Command 165,Critical Infrastructure,Southeast,Strategic,Financial Services,Prospect
+ACC-0166,Beacon Infrastructure 166,Regulated Commercial,Mid-Atlantic,Growth,Healthcare,Prospect
+ACC-0167,Keystone Command 167,Critical Infrastructure,International,Enterprise,Technology,Customer
+ACC-0168,Ironwood Technologies 168,Allied Government,Central,Enterprise,Federal Government,Prospect
+ACC-0169,Liberty Systems 169,Allied Government,Mid-Atlantic,Enterprise,Intelligence,Prospect
+ACC-0170,Horizon Agency 170,Intelligence Community,International,Enterprise,Critical Infrastructure,Prospect
+ACC-0171,Horizon Security 171,Critical Infrastructure,Southeast,Growth,Defense,Customer
+ACC-0172,Sterling Networks 172,Allied Government,Northeast,Enterprise,Aerospace,Prospect
+ACC-0173,Liberty Security 173,Department of Defense,West,Enterprise,Federal Government,Customer
+ACC-0174,Sentinel Command 174,Critical Infrastructure,Mid-Atlantic,Enterprise,Federal Government,Prospect
+ACC-0175,Falcon Services 175,Allied Government,Central,Enterprise,Defense,Prospect
+ACC-0176,Sentinel Systems 176,Intelligence Community,Northeast,Growth,Healthcare,Prospect
+ACC-0177,Orion Networks 177,Federal Civilian,Southeast,Strategic,Healthcare,Customer
+ACC-0178,Harbor Research 178,Regulated Commercial,West,Enterprise,Technology,Customer
+ACC-0179,Orion Agency 179,Federal Civilian,International,Growth,Aerospace,Prospect
+ACC-0180,Ironwood Infrastructure 180,Critical Infrastructure,Mid-Atlantic,Enterprise,Financial Services,Prospect
+ACC-0181,Vanguard Systems 181,Department of Defense,Mid-Atlantic,Growth,Federal Government,Prospect
+ACC-0182,Sentinel Group 182,Federal Civilian,Central,Enterprise,Critical Infrastructure,Customer
+ACC-0183,Atlas Solutions 183,Allied Government,Southeast,Enterprise,Critical Infrastructure,Prospect
+ACC-0184,Liberty Networks 184,Department of Defense,Central,Growth,Financial Services,Customer
+ACC-0185,Summit Security 185,Critical Infrastructure,West,Strategic,Technology,Prospect
+ACC-0186,Horizon Research 186,Critical Infrastructure,International,Strategic,Intelligence,Customer
+ACC-0187,Ironwood Services 187,Department of Defense,Southeast,Growth,Technology,Customer
+ACC-0188,Liberty Technologies 188,Department of Defense,Northeast,Strategic,Intelligence,Customer
+ACC-0189,Atlas Research 189,Critical Infrastructure,Mid-Atlantic,Strategic,Critical Infrastructure,Prospect
+ACC-0190,Northstar Command 190,Federal Civilian,Mid-Atlantic,Enterprise,Financial Services,Prospect
+ACC-0191,Aegis Technologies 191,Critical Infrastructure,West,Enterprise,Federal Government,Customer
+ACC-0192,Ironwood Solutions 192,Federal Civilian,Mid-Atlantic,Strategic,Federal Government,Customer
+ACC-0193,Liberty Services 193,Regulated Commercial,Mid-Atlantic,Growth,Intelligence,Prospect
+ACC-0194,Sterling Systems 194,Allied Government,Central,Growth,Healthcare,Prospect
+ACC-0195,Northstar Command 195,Department of Defense,Central,Enterprise,Federal Government,Customer
+ACC-0196,Horizon Research 196,Federal Civilian,International,Growth,Aerospace,Former Customer
+ACC-0197,Crescent Security 197,Department of Defense,West,Enterprise,Federal Government,Customer
+ACC-0198,Aegis Systems 198,Department of Defense,International,Enterprise,Financial Services,Customer
+ACC-0199,Vanguard Research 199,Intelligence Community,West,Enterprise,Critical Infrastructure,Former Customer
+ACC-0200,Horizon Agency 200,Intelligence Community,Central,Enterprise,Critical Infrastructure,Customer
+ACC-0201,Aegis Systems 201,Department of Defense,Mid-Atlantic,Growth,Federal Government,Prospect
+ACC-0202,Redwood Technologies 202,Intelligence Community,Mid-Atlantic,Enterprise,Intelligence,Prospect
+ACC-0203,Blue Ridge Group 203,Federal Civilian,Mid-Atlantic,Enterprise,Aerospace,Prospect
+ACC-0204,Beacon Infrastructure 204,Critical Infrastructure,West,Enterprise,Federal Government,Prospect
+ACC-0205,Falcon Research 205,Critical Infrastructure,Southeast,Strategic,Intelligence,Prospect
+ACC-0206,Atlas Operations 206,Federal Civilian,Northeast,Growth,Financial Services,Prospect
+ACC-0207,Ironwood Systems 207,Department of Defense,International,Enterprise,Intelligence,Customer
+ACC-0208,Keystone Research 208,Federal Civilian,West,Strategic,Aerospace,Customer
+ACC-0209,Redwood Group 209,Regulated Commercial,Northeast,Enterprise,Federal Government,Prospect
+ACC-0210,Aegis Agency 210,Critical Infrastructure,Central,Enterprise,Technology,Customer
+ACC-0211,Sentinel Group 211,Department of Defense,Central,Enterprise,Defense,Prospect
+ACC-0212,Liberty Systems 212,Federal Civilian,International,Growth,Critical Infrastructure,Customer
+ACC-0213,Northstar Security 213,Intelligence Community,Southeast,Enterprise,Critical Infrastructure,Prospect
+ACC-0214,Summit Command 214,Department of Defense,Central,Enterprise,Aerospace,Customer
+ACC-0215,Crescent Operations 215,Allied Government,Mid-Atlantic,Growth,Financial Services,Prospect
+ACC-0216,Liberty Research 216,Regulated Commercial,International,Enterprise,Federal Government,Prospect
+ACC-0217,Northstar Agency 217,Allied Government,International,Enterprise,Financial Services,Customer
+ACC-0218,Ironwood Technologies 218,Department of Defense,Central,Enterprise,Defense,Prospect
+ACC-0219,Liberty Infrastructure 219,Regulated Commercial,Mid-Atlantic,Strategic,Healthcare,Customer
+ACC-0220,Harbor Group 220,Regulated Commercial,Southeast,Strategic,Aerospace,Prospect
+ACC-0221,Orion Infrastructure 221,Intelligence Community,West,Growth,Financial Services,Prospect
+ACC-0222,Aegis Agency 222,Critical Infrastructure,West,Growth,Critical Infrastructure,Customer
+ACC-0223,Orion Solutions 223,Department of Defense,West,Strategic,Healthcare,Prospect
+ACC-0224,Summit Systems 224,Intelligence Community,Central,Growth,Defense,Prospect
+ACC-0225,Crescent Solutions 225,Critical Infrastructure,Southeast,Enterprise,Defense,Customer
+ACC-0226,Harbor Operations 226,Federal Civilian,Central,Growth,Defense,Customer
+ACC-0227,Orion Infrastructure 227,Federal Civilian,Northeast,Strategic,Healthcare,Prospect
+ACC-0228,Blue Ridge Research 228,Federal Civilian,Southeast,Growth,Federal Government,Prospect
+ACC-0229,Ironwood Group 229,Federal Civilian,International,Growth,Healthcare,Prospect
+ACC-0230,Sterling Infrastructure 230,Department of Defense,Mid-Atlantic,Strategic,Defense,Prospect
+ACC-0231,Aegis Command 231,Regulated Commercial,International,Growth,Critical Infrastructure,Customer
+ACC-0232,Aegis Networks 232,Critical Infrastructure,Northeast,Strategic,Federal Government,Prospect
+ACC-0233,Vanguard Infrastructure 233,Critical Infrastructure,Southeast,Growth,Defense,Prospect
+ACC-0234,Aegis Command 234,Allied Government,Southeast,Enterprise,Technology,Prospect
+ACC-0235,Aegis Security 235,Regulated Commercial,Southeast,Strategic,Financial Services,Prospect
+ACC-0236,Ironwood Infrastructure 236,Federal Civilian,Southeast,Growth,Aerospace,Prospect
+ACC-0237,Cedar Services 237,Critical Infrastructure,International,Enterprise,Technology,Prospect
+ACC-0238,Harbor Technologies 238,Federal Civilian,Mid-Atlantic,Strategic,Technology,Customer
+ACC-0239,Redwood Operations 239,Intelligence Community,West,Enterprise,Intelligence,Prospect
+ACC-0240,Pioneer Agency 240,Allied Government,Southeast,Strategic,Intelligence,Customer
+ACC-0241,Redwood Group 241,Department of Defense,Mid-Atlantic,Enterprise,Intelligence,Customer
+ACC-0242,Vanguard Systems 242,Intelligence Community,Northeast,Strategic,Critical Infrastructure,Customer
+ACC-0243,Harbor Group 243,Department of Defense,International,Strategic,Aerospace,Prospect
+ACC-0244,Falcon Networks 244,Critical Infrastructure,Mid-Atlantic,Enterprise,Financial Services,Customer
+ACC-0245,Northstar Networks 245,Critical Infrastructure,Central,Enterprise,Federal Government,Prospect
+ACC-0246,Harbor Services 246,Critical Infrastructure,Mid-Atlantic,Growth,Defense,Customer
+ACC-0247,Northstar Group 247,Federal Civilian,West,Enterprise,Critical Infrastructure,Customer
+ACC-0248,Orion Solutions 248,Critical Infrastructure,International,Enterprise,Federal Government,Customer
+ACC-0249,Beacon Research 249,Department of Defense,International,Growth,Aerospace,Customer
+ACC-0250,Redwood Security 250,Federal Civilian,Mid-Atlantic,Strategic,Healthcare,Prospect
+ACC-0251,Liberty Agency 251,Allied Government,West,Enterprise,Federal Government,Customer
+ACC-0252,Cedar Networks 252,Department of Defense,West,Strategic,Federal Government,Customer
+ACC-0253,Orion Solutions 253,Federal Civilian,Central,Growth,Aerospace,Prospect
+ACC-0254,Falcon Solutions 254,Regulated Commercial,Mid-Atlantic,Enterprise,Federal Government,Prospect
+ACC-0255,Atlas Solutions 255,Intelligence Community,Mid-Atlantic,Enterprise,Intelligence,Prospect
+ACC-0256,Orion Security 256,Department of Defense,West,Enterprise,Federal Government,Customer
+ACC-0257,Harbor Operations 257,Allied Government,West,Enterprise,Aerospace,Prospect
+ACC-0258,Pioneer Research 258,Department of Defense,Central,Strategic,Federal Government,Prospect
+ACC-0259,Blue Ridge Networks 259,Intelligence Community,Southeast,Strategic,Defense,Prospect
+ACC-0260,Vanguard Agency 260,Federal Civilian,West,Enterprise,Federal Government,Customer
+ACC-0261,Falcon Systems 261,Allied Government,Southeast,Enterprise,Intelligence,Customer
+ACC-0262,Pioneer Solutions 262,Critical Infrastructure,Mid-Atlantic,Growth,Defense,Customer
+ACC-0263,Redwood Operations 263,Critical Infrastructure,International,Strategic,Intelligence,Prospect
+ACC-0264,Sentinel Operations 264,Department of Defense,Central,Growth,Healthcare,Prospect
+ACC-0265,Sterling Solutions 265,Department of Defense,Central,Enterprise,Healthcare,Prospect
+ACC-0266,Harbor Operations 266,Federal Civilian,West,Growth,Healthcare,Customer
+ACC-0267,Liberty Services 267,Regulated Commercial,Mid-Atlantic,Enterprise,Technology,Prospect
+ACC-0268,Crescent Operations 268,Allied Government,Southeast,Strategic,Critical Infrastructure,Customer
+ACC-0269,Blue Ridge Command 269,Federal Civilian,Southeast,Strategic,Healthcare,Prospect
+ACC-0270,Horizon Operations 270,Intelligence Community,Mid-Atlantic,Growth,Defense,Prospect
+ACC-0271,Liberty Networks 271,Regulated Commercial,International,Enterprise,Critical Infrastructure,Prospect
+ACC-0272,Liberty Solutions 272,Federal Civilian,Southeast,Enterprise,Technology,Prospect
+ACC-0273,Crescent Research 273,Intelligence Community,Northeast,Strategic,Healthcare,Prospect
+ACC-0274,Liberty Systems 274,Department of Defense,West,Enterprise,Healthcare,Customer
+ACC-0275,Redwood Systems 275,Regulated Commercial,International,Strategic,Financial Services,Prospect
+ACC-0276,Blue Ridge Services 276,Department of Defense,Mid-Atlantic,Strategic,Technology,Prospect
+ACC-0277,Redwood Security 277,Allied Government,International,Strategic,Intelligence,Customer
+ACC-0278,Crescent Infrastructure 278,Federal Civilian,Northeast,Enterprise,Critical Infrastructure,Prospect
+ACC-0279,Sentinel Command 279,Critical Infrastructure,Northeast,Enterprise,Federal Government,Former Customer
+ACC-0280,Beacon Agency 280,Allied Government,Mid-Atlantic,Growth,Federal Government,Customer
+ACC-0281,Beacon Services 281,Allied Government,Mid-Atlantic,Enterprise,Technology,Prospect
+ACC-0282,Northstar Security 282,Federal Civilian,Central,Enterprise,Critical Infrastructure,Prospect
+ACC-0283,Aegis Command 283,Intelligence Community,Northeast,Growth,Federal Government,Prospect
+ACC-0284,Summit Networks 284,Federal Civilian,Southeast,Growth,Technology,Former Customer
+ACC-0285,Liberty Technologies 285,Federal Civilian,Northeast,Growth,Defense,Prospect
+ACC-0286,Falcon Networks 286,Intelligence Community,Northeast,Growth,Defense,Former Customer
+ACC-0287,Blue Ridge Group 287,Regulated Commercial,Central,Enterprise,Federal Government,Prospect
+ACC-0288,Northstar Research 288,Department of Defense,Northeast,Enterprise,Intelligence,Prospect
+ACC-0289,Beacon Technologies 289,Regulated Commercial,Northeast,Growth,Defense,Customer
+ACC-0290,Horizon Security 290,Regulated Commercial,West,Growth,Federal Government,Prospect
+ACC-0291,Falcon Command 291,Critical Infrastructure,Northeast,Enterprise,Financial Services,Prospect
+ACC-0292,Orion Operations 292,Critical Infrastructure,Mid-Atlantic,Growth,Intelligence,Customer
+ACC-0293,Vanguard Systems 293,Regulated Commercial,Central,Enterprise,Federal Government,Prospect
+ACC-0294,Crescent Operations 294,Regulated Commercial,Northeast,Growth,Federal Government,Prospect
+ACC-0295,Sentinel Infrastructure 295,Allied Government,International,Enterprise,Federal Government,Prospect
+ACC-0296,Summit Operations 296,Federal Civilian,International,Enterprise,Aerospace,Prospect
+ACC-0297,Redwood Solutions 297,Federal Civilian,Northeast,Enterprise,Defense,Customer
+ACC-0298,Blue Ridge Group 298,Federal Civilian,Mid-Atlantic,Strategic,Healthcare,Customer
+ACC-0299,Sentinel Technologies 299,Department of Defense,Mid-Atlantic,Enterprise,Financial Services,Prospect
+ACC-0300,Atlas Networks 300,Allied Government,Southeast,Growth,Critical Infrastructure,Customer
+ACC-0301,Liberty Services 301,Federal Civilian,Northeast,Growth,Technology,Customer
+ACC-0302,Falcon Agency 302,Department of Defense,Central,Growth,Technology,Former Customer
+ACC-0303,Ironwood Services 303,Regulated Commercial,Mid-Atlantic,Strategic,Financial Services,Prospect
+ACC-0304,Redwood Agency 304,Intelligence Community,West,Strategic,Federal Government,Prospect
+ACC-0305,Sterling Group 305,Department of Defense,Northeast,Growth,Critical Infrastructure,Customer
+ACC-0306,Horizon Systems 306,Department of Defense,Mid-Atlantic,Growth,Intelligence,Customer
+ACC-0307,Crescent Agency 307,Regulated Commercial,West,Enterprise,Defense,Prospect
+ACC-0308,Atlas Technologies 308,Critical Infrastructure,Northeast,Growth,Intelligence,Prospect
+ACC-0309,Blue Ridge Agency 309,Intelligence Community,Central,Growth,Federal Government,Prospect
+ACC-0310,Atlas Command 310,Department of Defense,International,Strategic,Aerospace,Customer
+ACC-0311,Atlas Systems 311,Critical Infrastructure,Northeast,Enterprise,Critical Infrastructure,Customer
+ACC-0312,Blue Ridge Command 312,Intelligence Community,Central,Growth,Aerospace,Customer
+ACC-0313,Cedar Operations 313,Intelligence Community,Central,Enterprise,Critical Infrastructure,Customer
+ACC-0314,Pioneer Operations 314,Federal Civilian,West,Enterprise,Financial Services,Prospect
+ACC-0315,Crescent Operations 315,Intelligence Community,Southeast,Enterprise,Aerospace,Customer
+ACC-0316,Pioneer Command 316,Federal Civilian,Central,Enterprise,Financial Services,Prospect
+ACC-0317,Summit Solutions 317,Intelligence Community,International,Growth,Financial Services,Customer
+ACC-0318,Redwood Agency 318,Department of Defense,Southeast,Growth,Technology,Prospect
+ACC-0319,Northstar Security 319,Critical Infrastructure,Central,Enterprise,Technology,Customer
+ACC-0320,Falcon Group 320,Regulated Commercial,Mid-Atlantic,Enterprise,Financial Services,Prospect

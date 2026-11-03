@@ -1,0 +1,676 @@
+Opportunity_ID,Opportunity_Name,Sales_Rep_ID,Region,Segment,Stage,Forecast_Category,Opportunity_Amount,Weighted_Pipeline,Expected_Close_Date,Last_Activity_Date,close_date_pushes,forecast_downgrades,flag_stage_risk,flag_stale_activity,flag_close_date_push_risk,flag_downgrade_risk,forecast_risk_score
+OPP-00139,"Cedar Services 097 - Secure Data Connectivity - 00139",REP-011,International,"Federal Civilian",Prospecting,"Best Case",640000.00,64000.00,2027-01-13,2026-04-25,4,2,1,1,1,1,4
+OPP-00267,"Redwood Agency 304 - Secure Access - 00267",REP-010,West,"Intelligence Community",Prospecting,"Best Case",303000.00,30300.00,2026-12-01,2026-04-23,3,0,1,1,1,0,3
+OPP-01307,"Liberty Networks 027 - Cross Domain Solutions - 01307",REP-010,West,"Intelligence Community",Proposal,Commit,4336000.00,2818400.00,2027-03-18,2026-05-01,2,2,0,1,0,1,2
+OPP-00625,"Ironwood Solutions 057 - Insider Risk - 00625",REP-008,Central,"Regulated Commercial","Solution Validation","Best Case",2480000.00,1240000.00,2026-12-27,2026-03-30,0,2,0,1,0,1,2
+OPP-01188,"Pioneer Technologies 155 - Cross Domain Solutions - 01188",REP-005,Southeast,"Department of Defense","Solution Validation",Commit,2049000.00,1024500.00,2027-03-11,2026-05-02,1,0,1,1,0,0,2
+OPP-00665,"Summit Research 080 - Insider Risk - 00665",REP-010,West,"Department of Defense","Solution Validation","Best Case",1051000.00,525500.00,2026-10-25,2026-05-29,4,2,0,0,1,1,2
+OPP-00455,"Liberty Systems 169 - Secure Data Connectivity - 00455",REP-001,Mid-Atlantic,"Allied Government","Solution Validation","Best Case",598000.00,299000.00,2026-09-04,2026-06-04,5,2,0,0,1,1,2
+OPP-00577,"Crescent Group 022 - Threat Protection - 00577",REP-012,International,"Department of Defense","Solution Validation",Commit,574000.00,287000.00,2027-02-14,2026-08-10,3,0,1,0,1,0,2
+OPP-01249,"Falcon Networks 286 - Cross Domain Solutions - 01249",REP-004,Northeast,"Intelligence Community",Negotiation,Commit,445000.00,356000.00,2027-01-01,2026-06-27,5,3,0,0,1,1,2
+OPP-00499,"Liberty Agency 251 - Secure Access - 00499",REP-009,West,"Allied Government",Qualification,"Best Case",264000.00,52800.00,2027-01-23,2026-05-11,0,0,1,1,0,0,2
+OPP-00698,"Horizon Security 171 - Threat Protection - 00698",REP-006,Southeast,"Critical Infrastructure",Negotiation,"Best Case",257000.00,205600.00,2026-12-10,2026-05-13,3,0,0,1,1,0,2
+OPP-01440,"Sterling Infrastructure 157 - Professional Services - 01440",REP-008,Central,"Regulated Commercial",Discovery,Pipeline,256000.00,0.00,2027-02-18,2026-05-16,3,0,0,1,1,0,2
+OPP-00818,"Aegis Technologies 120 - Secure Data Connectivity - 00818",REP-005,Southeast,"Regulated Commercial","Solution Validation",Commit,250000.00,125000.00,2026-10-21,2026-04-30,1,1,1,1,0,0,2
+OPP-00009,"Liberty Solutions 133 - Threat Protection - 00009",REP-010,West,"Critical Infrastructure",Qualification,"Best Case",222000.00,44400.00,2026-11-28,2026-04-22,2,1,1,1,0,0,2
+OPP-00390,"Keystone Command 167 - Cross Domain Solutions - 00390",REP-011,International,"Critical Infrastructure",Negotiation,Commit,222000.00,177600.00,2026-09-27,2026-04-27,3,1,0,1,1,0,2
+OPP-01142,"Keystone Command 132 - Secure Data Connectivity - 01142",REP-006,Southeast,"Federal Civilian",Prospecting,"Best Case",212000.00,21200.00,2027-02-05,2026-07-16,3,0,1,0,1,0,2
+OPP-01138,"Aegis Technologies 020 - Secure Access - 01138",REP-008,Central,"Department of Defense","Solution Validation",Commit,189000.00,94500.00,2027-03-10,2026-04-27,0,0,1,1,0,0,2
+OPP-00228,"Aegis Agency 222 - Threat Protection - 00228",REP-017,West,"Critical Infrastructure",Qualification,"Best Case",179000.00,35800.00,2026-08-20,2026-05-18,0,1,1,1,0,0,2
+OPP-01412,"Crescent Research 273 - Threat Protection - 01412",REP-014,Northeast,"Intelligence Community","Solution Validation","Best Case",155000.00,77500.00,2026-10-15,2026-06-21,5,2,0,0,1,1,2
+OPP-00929,"Redwood Operations 263 - Cross Domain Solutions - 00929",REP-012,International,"Critical Infrastructure",Discovery,"Best Case",134000.00,46900.00,2027-02-03,2026-04-28,1,0,1,1,0,0,2
+OPP-01408,"Orion Systems 025 - Threat Protection - 01408",REP-006,Southeast,"Federal Civilian",Proposal,"Best Case",133000.00,86450.00,2027-01-28,2026-04-28,3,1,0,1,1,0,2
+OPP-00798,"Liberty Systems 029 - Insider Risk - 00798",REP-016,Central,"Federal Civilian",Prospecting,"Best Case",105000.00,10500.00,2026-10-11,2026-04-26,1,1,1,1,0,0,2
+OPP-01087,"Ironwood Services 003 - Secure Data Connectivity - 01087",REP-007,Central,"Federal Civilian",Qualification,"Best Case",71000.00,14200.00,2026-12-05,2026-05-16,1,1,1,1,0,0,2
+OPP-00328,"Keystone Research 208 - Professional Services - 00328",REP-017,West,"Federal Civilian",Qualification,Pipeline,68000.00,0.00,2027-01-15,2026-05-05,2,2,0,1,0,1,2
+OPP-01081,"Orion Operations 292 - Professional Services - 01081",REP-013,Mid-Atlantic,"Critical Infrastructure",Qualification,"Best Case",60000.00,12000.00,2027-01-17,2026-06-10,3,0,1,0,1,0,2
+OPP-00752,"Atlas Infrastructure 096 - Threat Protection - 00752",REP-002,Mid-Atlantic,"Regulated Commercial",Discovery,"Best Case",57000.00,19950.00,2027-03-03,2026-04-22,1,0,1,1,0,0,2
+OPP-00167,"Keystone Technologies 030 - Secure Access - 00167",REP-016,Central,"Allied Government",Prospecting,"Best Case",50000.00,5000.00,2026-09-27,2026-08-03,3,0,1,0,1,0,2
+OPP-01043,"Orion Security 256 - Insider Risk - 01043",REP-017,West,"Department of Defense",Prospecting,"Best Case",50000.00,5000.00,2026-12-28,2026-04-22,1,0,1,1,0,0,2
+OPP-01443,"Beacon Technologies 041 - Professional Services - 01443",REP-002,Mid-Atlantic,"Critical Infrastructure",Negotiation,Commit,45000.00,36000.00,2027-02-28,2026-06-08,4,2,0,0,1,1,2
+OPP-00873,"Crescent Operations 294 - Secure Access - 00873",REP-003,Northeast,"Regulated Commercial",Negotiation,Commit,25000000.00,20000000.00,2026-12-26,2026-05-10,1,0,0,1,0,0,1
+OPP-00808,"Harbor Research 178 - Professional Services - 00808",REP-017,West,"Regulated Commercial",Proposal,Commit,22000000.00,14300000.00,2027-03-20,2026-05-11,1,0,0,1,0,0,1
+OPP-01349,"Keystone Command 167 - Cross Domain Solutions - 01349",REP-018,International,"Critical Infrastructure","Solution Validation",Pipeline,7158000.00,3579000.00,2026-08-19,2026-05-01,2,0,0,1,0,0,1
+OPP-00981,"Liberty Networks 037 - Cross Domain Solutions - 00981",REP-013,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,3708000.00,2966400.00,2026-10-03,2026-05-05,1,1,0,1,0,0,1
+OPP-01277,"Orion Infrastructure 221 - Threat Protection - 01277",REP-010,West,"Intelligence Community",Qualification,Pipeline,3659000.00,731800.00,2026-10-10,2026-05-12,1,0,0,1,0,0,1
+OPP-00922,"Northstar Agency 217 - Threat Protection - 00922",REP-012,International,"Allied Government","Solution Validation",Pipeline,2950000.00,1475000.00,2027-01-11,2026-05-01,0,0,0,1,0,0,1
+OPP-00948,"Sentinel Group 028 - Secure Data Connectivity - 00948",REP-017,West,"Federal Civilian",Negotiation,Commit,2880000.00,2304000.00,2026-08-20,2026-04-14,0,0,0,1,0,0,1
+OPP-00180,"Redwood Security 250 - Secure Data Connectivity - 00180",REP-013,Mid-Atlantic,"Federal Civilian","Solution Validation","Best Case",2786000.00,1393000.00,2027-01-31,2026-04-11,0,0,0,1,0,0,1
+OPP-00297,"Summit Services 134 - Cross Domain Solutions - 00297",REP-007,Central,"Critical Infrastructure","Solution Validation",Commit,2785000.00,1392500.00,2026-11-06,2026-05-27,0,0,1,0,0,0,1
+OPP-00518,"Horizon Systems 306 - Threat Protection - 00518",REP-002,Mid-Atlantic,"Department of Defense",Proposal,"Best Case",2736000.00,1778400.00,2027-03-01,2026-05-03,0,1,0,1,0,0,1
+OPP-00438,"Summit Services 134 - Secure Access - 00438",REP-007,Central,"Critical Infrastructure",Proposal,"Best Case",2532000.00,1645800.00,2026-09-09,2026-05-01,2,0,0,1,0,0,1
+OPP-01380,"Cedar Networks 103 - Secure Data Connectivity - 01380",REP-004,Northeast,"Department of Defense",Discovery,Pipeline,2369000.00,829150.00,2027-03-03,2026-05-07,0,0,0,1,0,0,1
+OPP-00364,"Blue Ridge Research 228 - Secure Access - 00364",REP-015,Southeast,"Federal Civilian",Negotiation,Commit,2282000.00,1825600.00,2027-03-01,2026-05-13,0,1,0,1,0,0,1
+OPP-00492,"Summit Command 214 - Secure Data Connectivity - 00492",REP-007,Central,"Department of Defense",Discovery,Pipeline,2113000.00,739550.00,2027-03-22,2026-05-16,1,1,0,1,0,0,1
+OPP-01472,"Redwood Group 241 - Threat Protection - 01472",REP-002,Mid-Atlantic,"Department of Defense",Discovery,Pipeline,1844000.00,645400.00,2027-02-28,2026-05-17,0,0,0,1,0,0,1
+OPP-01303,"Harbor Command 053 - Threat Protection - 01303",REP-008,Central,"Allied Government",Negotiation,Commit,1739000.00,1391200.00,2026-10-17,2026-05-16,0,0,0,1,0,0,1
+OPP-01091,"Summit Command 106 - Cross Domain Solutions - 01091",REP-010,West,"Allied Government",Proposal,"Best Case",1639000.00,1065350.00,2027-01-25,2026-05-12,1,0,0,1,0,0,1
+OPP-00192,"Pioneer Agency 240 - Cross Domain Solutions - 00192",REP-006,Southeast,"Allied Government",Prospecting,Pipeline,1579000.00,157900.00,2026-10-14,2026-05-12,1,0,0,1,0,0,1
+OPP-01048,"Liberty Infrastructure 109 - Cross Domain Solutions - 01048",REP-004,Northeast,"Critical Infrastructure","Solution Validation","Best Case",1576000.00,788000.00,2027-01-07,2026-07-23,3,0,0,0,1,0,1
+OPP-00682,"Atlas Systems 311 - Cross Domain Solutions - 00682",REP-014,Northeast,"Critical Infrastructure",Prospecting,"Best Case",1509000.00,150900.00,2026-12-11,2026-07-12,1,0,1,0,0,0,1
+OPP-01041,"Northstar Command 190 - Cross Domain Solutions - 01041",REP-002,Mid-Atlantic,"Federal Civilian","Solution Validation","Best Case",1474000.00,737000.00,2027-01-29,2026-04-30,1,0,0,1,0,0,1
+OPP-00699,"Redwood Technologies 202 - Cross Domain Solutions - 00699",REP-002,Mid-Atlantic,"Intelligence Community",Proposal,"Best Case",1437000.00,934050.00,2026-12-21,2026-08-10,4,1,0,0,1,0,1
+OPP-00357,"Cedar Systems 018 - Secure Access - 00357",REP-005,Southeast,"Department of Defense",Discovery,Pipeline,1433000.00,501550.00,2027-01-27,2026-05-09,1,1,0,1,0,0,1
+OPP-01479,"Atlas Group 124 - Threat Protection - 01479",REP-011,International,"Federal Civilian","Solution Validation",Commit,1408000.00,704000.00,2026-12-24,2026-08-03,0,0,1,0,0,0,1
+OPP-01258,"Harbor Group 243 - Secure Data Connectivity - 01258",REP-018,International,"Department of Defense",Negotiation,"Best Case",1384000.00,1107200.00,2027-03-24,2026-04-28,0,0,0,1,0,0,1
+OPP-00768,"Sentinel Technologies 299 - Threat Protection - 00768",REP-013,Mid-Atlantic,"Department of Defense",Proposal,Commit,1244000.00,808600.00,2026-08-25,2026-05-18,1,0,0,1,0,0,1
+OPP-01360,"Summit Services 134 - Insider Risk - 01360",REP-016,Central,"Critical Infrastructure",Proposal,"Best Case",1161000.00,754650.00,2026-09-09,2026-04-24,1,0,0,1,0,0,1
+OPP-01345,"Falcon Group 320 - Secure Data Connectivity - 01345",REP-002,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,1147000.00,917600.00,2026-10-10,2026-04-22,0,0,0,1,0,0,1
+OPP-01076,"Falcon Solutions 254 - Secure Data Connectivity - 01076",REP-001,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,1130000.00,904000.00,2027-02-12,2026-05-11,0,0,0,1,0,0,1
+OPP-00109,"Aegis Systems 198 - Cross Domain Solutions - 00109",REP-012,International,"Department of Defense","Solution Validation",Pipeline,1126000.00,56300.00,2027-01-09,2026-04-20,2,0,0,1,0,0,1
+OPP-00198,"Vanguard Agency 019 - Cross Domain Solutions - 00198",REP-016,Central,"Department of Defense",Prospecting,"Best Case",1091000.00,109100.00,2027-03-13,2026-05-19,1,0,1,0,0,0,1
+OPP-00521,"Harbor Operations 226 - Secure Data Connectivity - 00521",REP-008,Central,"Federal Civilian",Discovery,Pipeline,1066000.00,373100.00,2026-11-15,2026-06-30,2,2,0,0,0,1,1
+OPP-01202,"Aegis Security 235 - Secure Data Connectivity - 01202",REP-015,Southeast,"Regulated Commercial",Proposal,"Best Case",1057000.00,687050.00,2026-11-13,2026-05-09,0,0,0,1,0,0,1
+OPP-00606,"Northstar Technologies 098 - Secure Access - 00606",REP-017,West,"Regulated Commercial",Negotiation,Commit,1032000.00,825600.00,2026-10-02,2026-04-29,1,0,0,1,0,0,1
+OPP-00424,"Keystone Services 043 - Cross Domain Solutions - 00424",REP-010,West,"Federal Civilian",Negotiation,"Best Case",1017000.00,813600.00,2027-01-20,2026-04-28,1,0,0,1,0,0,1
+OPP-00508,"Horizon Agency 170 - Cross Domain Solutions - 00508",REP-011,International,"Intelligence Community",Qualification,Pipeline,1015000.00,203000.00,2026-11-23,2026-08-02,1,2,0,0,0,1,1
+OPP-00050,"Keystone Services 081 - Insider Risk - 00050",REP-003,Northeast,"Intelligence Community",Proposal,Commit,1010000.00,656500.00,2026-11-08,2026-05-21,3,0,0,0,1,0,1
+OPP-00588,"Liberty Services 141 - Secure Data Connectivity - 00588",REP-010,West,"Intelligence Community",Qualification,"Best Case",1005000.00,201000.00,2027-03-19,2026-06-10,0,0,1,0,0,0,1
+OPP-01489,"Beacon Technologies 289 - Secure Data Connectivity - 01489",REP-014,Northeast,"Regulated Commercial",Negotiation,Commit,968000.00,774400.00,2026-11-04,2026-04-20,0,0,0,1,0,0,1
+OPP-00039,"Summit Solutions 161 - Threat Protection - 00039",REP-002,Mid-Atlantic,"Department of Defense",Discovery,Pipeline,926000.00,324100.00,2027-01-30,2026-05-11,2,1,0,1,0,0,1
+OPP-01227,"Pioneer Command 316 - Cross Domain Solutions - 01227",REP-007,Central,"Federal Civilian",Negotiation,"Best Case",920000.00,736000.00,2027-02-06,2026-04-19,2,0,0,1,0,0,1
+OPP-00557,"Horizon Agency 170 - Secure Access - 00557",REP-011,International,"Intelligence Community",Negotiation,Commit,917000.00,733600.00,2027-02-08,2026-05-18,0,0,0,1,0,0,1
+OPP-00107,"Orion Infrastructure 221 - Cross Domain Solutions - 00107",REP-017,West,"Intelligence Community",Prospecting,Pipeline,835000.00,83500.00,2026-11-14,2026-05-04,0,0,0,1,0,0,1
+OPP-00858,"Aegis Agency 222 - Cross Domain Solutions - 00858",REP-010,West,"Critical Infrastructure",Qualification,"Best Case",803000.00,160600.00,2027-03-16,2026-07-29,1,0,1,0,0,0,1
+OPP-01355,"Pioneer Technologies 137 - Threat Protection - 01355",REP-018,International,"Federal Civilian",Qualification,"Best Case",803000.00,160600.00,2026-12-05,2026-07-27,2,1,1,0,0,0,1
+OPP-01481,"Cedar Operations 313 - Insider Risk - 01481",REP-007,Central,"Intelligence Community","Solution Validation",Pipeline,764000.00,382000.00,2027-03-11,2026-04-26,0,1,0,1,0,0,1
+OPP-01291,"Keystone Solutions 056 - Threat Protection - 01291",REP-015,Southeast,"Critical Infrastructure",Qualification,Pipeline,763000.00,152600.00,2027-02-27,2026-08-09,3,0,0,0,1,0,1
+OPP-00172,"Summit Systems 224 - Secure Data Connectivity - 00172",REP-016,Central,"Intelligence Community",Prospecting,Pipeline,737000.00,73700.00,2027-03-23,2026-05-02,2,1,0,1,0,0,1
+OPP-00575,"Sentinel Security 049 - Cross Domain Solutions - 00575",REP-015,Southeast,"Federal Civilian","Solution Validation","Best Case",721000.00,360500.00,2027-01-25,2026-05-04,2,0,0,1,0,0,1
+OPP-00496,"Ironwood Technologies 168 - Secure Access - 00496",REP-007,Central,"Allied Government",Negotiation,"Best Case",715000.00,572000.00,2026-09-28,2026-04-28,2,0,0,1,0,0,1
+OPP-00951,"Harbor Research 178 - Cross Domain Solutions - 00951",REP-009,West,"Regulated Commercial",Discovery,"Best Case",696000.00,243600.00,2026-10-19,2026-06-23,0,0,1,0,0,0,1
+OPP-00337,"Crescent Operations 078 - Cross Domain Solutions - 00337",REP-007,Central,"Allied Government",Qualification,"Best Case",692000.00,138400.00,2027-01-11,2026-07-21,0,1,1,0,0,0,1
+OPP-00722,"Harbor Services 246 - Secure Access - 00722",REP-013,Mid-Atlantic,"Critical Infrastructure",Negotiation,Commit,658000.00,526400.00,2026-10-25,2026-04-26,2,0,0,1,0,0,1
+OPP-00793,"Cedar Operations 313 - Secure Access - 00793",REP-008,Central,"Intelligence Community","Solution Validation",Commit,658000.00,329000.00,2027-01-19,2026-07-15,0,0,1,0,0,0,1
+OPP-00241,"Atlas Solutions 255 - Cross Domain Solutions - 00241",REP-002,Mid-Atlantic,"Intelligence Community",Negotiation,Commit,657000.00,525600.00,2026-10-10,2026-05-16,0,0,0,1,0,0,1
+OPP-00102,"Summit Agency 014 - Insider Risk - 00102",REP-005,Southeast,"Federal Civilian",Prospecting,"Best Case",644000.00,64400.00,2026-09-22,2026-06-23,1,0,1,0,0,0,1
+OPP-00778,"Aegis Agency 082 - Threat Protection - 00778",REP-015,Southeast,"Federal Civilian",Negotiation,"Best Case",609000.00,487200.00,2026-09-12,2026-04-26,0,0,0,1,0,0,1
+OPP-00414,"Atlas Infrastructure 096 - Secure Data Connectivity - 00414",REP-001,Mid-Atlantic,"Regulated Commercial","Solution Validation","Best Case",607000.00,303500.00,2026-10-19,2026-05-07,1,0,0,1,0,0,1
+OPP-00200,"Ironwood Services 303 - Secure Access - 00200",REP-001,Mid-Atlantic,"Regulated Commercial",Proposal,"Best Case",605000.00,393250.00,2027-02-17,2026-06-04,4,0,0,0,1,0,1
+OPP-00105,"Horizon Infrastructure 128 - Cross Domain Solutions - 00105",REP-006,Southeast,"Department of Defense",Qualification,Pipeline,602000.00,120400.00,2026-08-30,2026-04-27,1,1,0,1,0,0,1
+OPP-01184,"Summit Solutions 161 - Insider Risk - 01184",REP-002,Mid-Atlantic,"Department of Defense",Proposal,"Best Case",601000.00,390650.00,2027-02-28,2026-05-06,0,1,0,1,0,0,1
+OPP-00378,"Aegis Technologies 020 - Threat Protection - 00378",REP-007,Central,"Department of Defense",Qualification,Pipeline,600000.00,120000.00,2027-02-04,2026-05-02,1,0,0,1,0,0,1
+OPP-01352,"Keystone Solutions 056 - Cross Domain Solutions - 01352",REP-015,Southeast,"Critical Infrastructure",Discovery,Pipeline,595000.00,208250.00,2027-01-19,2026-05-17,2,0,0,1,0,0,1
+OPP-00687,"Atlas Networks 300 - Insider Risk - 00687",REP-015,Southeast,"Allied Government",Prospecting,Pipeline,588000.00,58800.00,2026-11-21,2026-04-22,1,0,0,1,0,0,1
+OPP-00375,"Redwood Agency 318 - Cross Domain Solutions - 00375",REP-006,Southeast,"Department of Defense",Discovery,Pipeline,559000.00,195650.00,2026-12-18,2026-06-05,4,0,0,0,1,0,1
+OPP-01418,"Blue Ridge Services 142 - Threat Protection - 01418",REP-011,International,"Department of Defense",Negotiation,Commit,538000.00,430400.00,2026-10-03,2026-04-20,1,1,0,1,0,0,1
+OPP-00827,"Summit Networks 284 - Secure Data Connectivity - 00827",REP-015,Southeast,"Federal Civilian",Discovery,Pipeline,533000.00,506350.00,2027-01-02,2026-05-06,1,1,0,1,0,0,1
+OPP-00669,"Harbor Group 220 - Cross Domain Solutions - 00669",REP-005,Southeast,"Regulated Commercial",Discovery,Pipeline,525000.00,183750.00,2026-09-25,2026-04-28,0,0,0,1,0,0,1
+OPP-00429,"Sentinel Operations 264 - Cross Domain Solutions - 00429",REP-016,Central,"Department of Defense",Negotiation,Commit,521000.00,416800.00,2027-03-18,2026-05-13,0,0,0,1,0,0,1
+OPP-01052,"Ironwood Infrastructure 180 - Secure Data Connectivity - 01052",REP-001,Mid-Atlantic,"Critical Infrastructure",Discovery,"Best Case",488000.00,170800.00,2027-03-19,2026-06-19,0,0,1,0,0,0,1
+OPP-00653,"Liberty Services 141 - Secure Data Connectivity - 00653",REP-017,West,"Intelligence Community",Discovery,"Best Case",467000.00,163450.00,2027-03-19,2026-08-07,1,1,1,0,0,0,1
+OPP-01297,"Northstar Technologies 091 - Insider Risk - 01297",REP-014,Northeast,"Department of Defense",Prospecting,"Best Case",464000.00,46400.00,2026-11-19,2026-05-27,0,0,1,0,0,0,1
+OPP-00022,"Pioneer Research 258 - Threat Protection - 00022",REP-007,Central,"Department of Defense",Discovery,Pipeline,462000.00,161700.00,2026-09-30,2026-07-05,4,1,0,0,1,0,1
+OPP-01010,"Horizon Research 196 - Secure Access - 01010",REP-011,International,"Federal Civilian",Prospecting,"Best Case",458000.00,45800.00,2027-02-15,2026-06-11,2,1,1,0,0,0,1
+OPP-00932,"Harbor Agency 099 - Secure Access - 00932",REP-012,International,"Critical Infrastructure",Proposal,Commit,456000.00,296400.00,2026-12-12,2026-04-21,0,0,0,1,0,0,1
+OPP-00491,"Ironwood Technologies 168 - Threat Protection - 00491",REP-016,Central,"Allied Government",Proposal,Commit,450000.00,292500.00,2026-09-10,2026-07-26,3,0,0,0,1,0,1
+OPP-00576,"Sentinel Command 122 - Insider Risk - 00576",REP-007,Central,"Department of Defense",Proposal,"Best Case",432000.00,280800.00,2026-11-03,2026-04-27,1,0,0,1,0,0,1
+OPP-00385,"Liberty Networks 184 - Secure Data Connectivity - 00385",REP-016,Central,"Department of Defense",Proposal,"Best Case",430000.00,279500.00,2027-02-05,2026-05-12,0,1,0,1,0,0,1
+OPP-00309,"Summit Security 092 - Secure Data Connectivity - 00309",REP-014,Northeast,"Department of Defense",Discovery,Pipeline,425000.00,148750.00,2026-10-21,2026-05-12,1,0,0,1,0,0,1
+OPP-00145,"Harbor Research 178 - Cross Domain Solutions - 00145",REP-010,West,"Regulated Commercial",Discovery,"Best Case",408000.00,142800.00,2026-11-03,2026-06-06,0,1,1,0,0,0,1
+OPP-00161,"Harbor Command 053 - Insider Risk - 00161",REP-016,Central,"Allied Government",Proposal,Commit,407000.00,264550.00,2026-12-04,2026-04-25,2,0,0,1,0,0,1
+OPP-00158,"Vanguard Systems 242 - Cross Domain Solutions - 00158",REP-004,Northeast,"Intelligence Community",Discovery,"Best Case",392000.00,137200.00,2026-09-28,2026-07-10,2,0,1,0,0,0,1
+OPP-00537,"Aegis Research 140 - Cross Domain Solutions - 00537",REP-017,West,"Department of Defense",Proposal,"Best Case",384000.00,249600.00,2027-02-03,2026-05-03,1,1,0,1,0,0,1
+OPP-01066,"Northstar Command 195 - Secure Access - 01066",REP-016,Central,"Department of Defense",Proposal,"Best Case",376000.00,244400.00,2027-01-20,2026-04-28,0,0,0,1,0,0,1
+OPP-00114,"Sterling Systems 194 - Threat Protection - 00114",REP-007,Central,"Allied Government",Prospecting,Pipeline,367000.00,36700.00,2027-01-18,2026-04-19,0,0,0,1,0,0,1
+OPP-00916,"Orion Security 256 - Secure Access - 00916",REP-009,West,"Department of Defense",Proposal,"Best Case",358000.00,232700.00,2027-03-18,2026-04-22,1,0,0,1,0,0,1
+OPP-00188,"Sterling Research 159 - Cross Domain Solutions - 00188",REP-016,Central,"Department of Defense",Prospecting,Pipeline,355000.00,35500.00,2026-11-30,2026-04-25,0,0,0,1,0,0,1
+OPP-00714,"Vanguard Research 199 - Secure Data Connectivity - 00714",REP-017,West,"Intelligence Community",Negotiation,Commit,350000.00,280000.00,2027-02-26,2026-04-30,2,0,0,1,0,0,1
+OPP-00501,"Blue Ridge Group 287 - Cross Domain Solutions - 00501",REP-007,Central,"Regulated Commercial",Qualification,"Best Case",345000.00,69000.00,2027-01-17,2026-08-07,1,0,1,0,0,0,1
+OPP-00884,"Crescent Security 197 - Insider Risk - 00884",REP-009,West,"Department of Defense","Solution Validation",Pipeline,339000.00,169500.00,2027-03-25,2026-08-15,4,1,0,0,1,0,1
+OPP-00651,"Falcon Agency 004 - Professional Services - 00651",REP-002,Mid-Atlantic,"Federal Civilian",Discovery,"Best Case",335000.00,117250.00,2027-03-24,2026-06-21,2,1,1,0,0,0,1
+OPP-00917,"Liberty Networks 184 - Cross Domain Solutions - 00917",REP-008,Central,"Department of Defense",Negotiation,"Best Case",330000.00,264000.00,2026-08-27,2026-04-23,2,0,0,1,0,0,1
+OPP-01261,"Blue Ridge Research 228 - Secure Access - 01261",REP-006,Southeast,"Federal Civilian",Proposal,"Best Case",328000.00,213200.00,2026-10-26,2026-04-21,2,0,0,1,0,0,1
+OPP-00383,"Ironwood Technologies 218 - Secure Data Connectivity - 00383",REP-007,Central,"Department of Defense",Prospecting,Pipeline,323000.00,32300.00,2026-11-06,2026-04-29,0,1,0,1,0,0,1
+OPP-00142,"Horizon Agency 200 - Professional Services - 00142",REP-007,Central,"Intelligence Community",Proposal,Commit,315000.00,204750.00,2026-12-18,2026-06-03,4,0,0,0,1,0,1
+OPP-00906,"Aegis Agency 222 - Secure Access - 00906",REP-010,West,"Critical Infrastructure","Solution Validation","Best Case",315000.00,157500.00,2026-09-30,2026-07-29,3,0,0,0,1,0,1
+OPP-01145,"Falcon Agency 004 - Secure Data Connectivity - 01145",REP-013,Mid-Atlantic,"Federal Civilian",Proposal,Commit,314000.00,204100.00,2027-02-05,2026-05-06,2,1,0,1,0,0,1
+OPP-00961,"Orion Research 088 - Secure Access - 00961",REP-009,West,"Federal Civilian",Proposal,Commit,311000.00,202150.00,2027-03-12,2026-07-21,3,0,0,0,1,0,1
+OPP-01455,"Falcon Solutions 254 - Secure Access - 01455",REP-013,Mid-Atlantic,"Regulated Commercial",Proposal,"Best Case",307000.00,199550.00,2027-03-15,2026-05-11,2,1,0,1,0,0,1
+OPP-00266,"Horizon Systems 306 - Secure Data Connectivity - 00266",REP-013,Mid-Atlantic,"Department of Defense",Negotiation,Commit,305000.00,244000.00,2027-03-16,2026-05-10,2,0,0,1,0,0,1
+OPP-00015,"Horizon Operations 270 - Professional Services - 00015",REP-013,Mid-Atlantic,"Intelligence Community",Discovery,Pipeline,303000.00,106050.00,2026-12-30,2026-04-30,0,1,0,1,0,0,1
+OPP-01118,"Crescent Operations 078 - Insider Risk - 01118",REP-008,Central,"Allied Government",Negotiation,"Best Case",303000.00,242400.00,2027-02-23,2026-07-20,3,0,0,0,1,0,1
+OPP-00963,"Sterling Infrastructure 230 - Threat Protection - 00963",REP-013,Mid-Atlantic,"Department of Defense",Proposal,"Best Case",285000.00,185250.00,2027-02-02,2026-05-16,0,0,0,1,0,0,1
+OPP-01122,"Redwood Networks 125 - Insider Risk - 01122",REP-011,International,"Critical Infrastructure","Solution Validation","Best Case",283000.00,141500.00,2027-01-23,2026-05-02,1,0,0,1,0,0,1
+OPP-01208,"Ironwood Services 187 - Professional Services - 01208",REP-005,Southeast,"Department of Defense","Solution Validation",Commit,275000.00,137500.00,2027-02-18,2026-07-22,1,0,1,0,0,0,1
+OPP-00876,"Liberty Services 038 - Secure Data Connectivity - 00876",REP-018,International,"Critical Infrastructure",Qualification,Pipeline,273000.00,54600.00,2026-09-04,2026-05-01,2,0,0,1,0,0,1
+OPP-00934,"Keystone Command 132 - Cross Domain Solutions - 00934",REP-006,Southeast,"Federal Civilian",Negotiation,Commit,271000.00,216800.00,2026-09-30,2026-05-03,2,0,0,1,0,0,1
+OPP-00301,"Orion Group 009 - Secure Access - 00301",REP-018,International,"Federal Civilian",Negotiation,Commit,268000.00,214400.00,2027-03-17,2026-04-22,1,0,0,1,0,0,1
+OPP-00817,"Crescent Agency 307 - Secure Data Connectivity - 00817",REP-009,West,"Regulated Commercial",Discovery,"Best Case",266000.00,93100.00,2027-03-13,2026-07-22,0,0,1,0,0,0,1
+OPP-00515,"Vanguard Systems 181 - Secure Access - 00515",REP-013,Mid-Atlantic,"Department of Defense","Solution Validation",Commit,263000.00,131500.00,2026-09-25,2026-07-16,1,0,1,0,0,0,1
+OPP-01432,"Vanguard Command 123 - Secure Access - 01432",REP-009,West,"Critical Infrastructure",Negotiation,Commit,262000.00,209600.00,2027-01-27,2026-05-10,0,0,0,1,0,0,1
+OPP-00141,"Keystone Services 081 - Insider Risk - 00141",REP-014,Northeast,"Intelligence Community","Solution Validation","Best Case",257000.00,128500.00,2026-12-21,2026-05-06,1,1,0,1,0,0,1
+OPP-00539,"Harbor Operations 257 - Secure Data Connectivity - 00539",REP-009,West,"Allied Government",Discovery,Pipeline,255000.00,89250.00,2027-01-16,2026-05-04,2,1,0,1,0,0,1
+OPP-01027,"Horizon Infrastructure 128 - Secure Access - 01027",REP-005,Southeast,"Department of Defense",Proposal,Commit,255000.00,165750.00,2026-11-07,2026-05-18,1,0,0,1,0,0,1
+OPP-00043,"Atlas Services 077 - Secure Data Connectivity - 00043",REP-008,Central,"Intelligence Community",Discovery,Pipeline,254000.00,88900.00,2026-11-18,2026-04-21,1,0,0,1,0,0,1
+OPP-00286,"Liberty Infrastructure 219 - Threat Protection - 00286",REP-002,Mid-Atlantic,"Regulated Commercial",Discovery,"Best Case",250000.00,87500.00,2026-09-07,2026-06-24,1,0,1,0,0,0,1
+OPP-00045,"Liberty Systems 169 - Professional Services - 00045",REP-002,Mid-Atlantic,"Allied Government","Solution Validation",Commit,242000.00,229900.00,2026-09-07,2026-06-13,0,0,1,0,0,0,1
+OPP-00465,"Beacon Technologies 062 - Insider Risk - 00465",REP-015,Southeast,"Department of Defense",Negotiation,Commit,239000.00,191200.00,2027-02-08,2026-04-24,1,0,0,1,0,0,1
+OPP-01065,"Orion Solutions 253 - Insider Risk - 01065",REP-007,Central,"Federal Civilian","Solution Validation","Best Case",238000.00,119000.00,2026-12-07,2026-04-26,0,1,0,1,0,0,1
+OPP-00415,"Summit Research 080 - Secure Access - 00415",REP-010,West,"Department of Defense",Proposal,Commit,232000.00,150800.00,2026-10-13,2026-05-08,0,0,0,1,0,0,1
+OPP-01112,"Sentinel Group 028 - Secure Data Connectivity - 01112",REP-010,West,"Federal Civilian","Solution Validation",Pipeline,229000.00,114500.00,2026-12-01,2026-04-29,0,0,0,1,0,0,1
+OPP-00011,"Beacon Infrastructure 166 - Cross Domain Solutions - 00011",REP-001,Mid-Atlantic,"Regulated Commercial",Discovery,Pipeline,226000.00,79100.00,2026-10-15,2026-05-17,0,1,0,1,0,0,1
+OPP-00731,"Vanguard Systems 181 - Cross Domain Solutions - 00731",REP-002,Mid-Atlantic,"Department of Defense","Solution Validation",Commit,221000.00,110500.00,2026-12-14,2026-08-11,0,1,1,0,0,0,1
+OPP-00152,"Pioneer Research 258 - Secure Data Connectivity - 00152",REP-016,Central,"Department of Defense",Discovery,"Best Case",213000.00,74550.00,2027-02-20,2026-06-03,1,1,1,0,0,0,1
+OPP-00220,"Vanguard Systems 058 - Secure Data Connectivity - 00220",REP-003,Northeast,"Federal Civilian",Negotiation,Commit,211000.00,168800.00,2026-11-14,2026-05-12,0,0,0,1,0,0,1
+OPP-00270,"Redwood Operations 095 - Secure Access - 00270",REP-011,International,"Regulated Commercial",Prospecting,Pipeline,211000.00,21100.00,2027-01-16,2026-04-29,1,0,0,1,0,0,1
+OPP-00969,"Harbor Operations 065 - Secure Data Connectivity - 00969",REP-006,Southeast,"Department of Defense","Solution Validation",Commit,211000.00,105500.00,2027-02-23,2026-07-23,1,0,1,0,0,0,1
+OPP-00327,"Falcon Solutions 254 - Cross Domain Solutions - 00327",REP-001,Mid-Atlantic,"Regulated Commercial",Discovery,Pipeline,210000.00,73500.00,2026-12-29,2026-05-09,0,0,0,1,0,0,1
+OPP-00072,"Orion Systems 076 - Secure Data Connectivity - 00072",REP-009,West,"Federal Civilian",Discovery,"Best Case",205000.00,71750.00,2026-12-21,2026-06-17,2,0,1,0,0,0,1
+OPP-00621,"Vanguard Systems 293 - Secure Access - 00621",REP-007,Central,"Regulated Commercial",Proposal,Commit,200000.00,130000.00,2026-12-02,2026-04-30,1,0,0,1,0,0,1
+OPP-01114,"Northstar Group 247 - Cross Domain Solutions - 01114",REP-010,West,"Federal Civilian",Qualification,Pipeline,196000.00,39200.00,2026-09-24,2026-04-20,1,0,0,1,0,0,1
+OPP-00495,"Liberty Technologies 285 - Secure Access - 00495",REP-004,Northeast,"Federal Civilian",Qualification,Pipeline,194000.00,38800.00,2026-12-09,2026-06-30,5,0,0,0,1,0,1
+OPP-01067,"Crescent Agency 040 - Secure Data Connectivity - 01067",REP-008,Central,"Intelligence Community",Qualification,"Best Case",193000.00,38600.00,2026-09-06,2026-08-17,2,1,1,0,0,0,1
+OPP-00179,"Summit Services 134 - Secure Access - 00179",REP-008,Central,"Critical Infrastructure",Discovery,"Best Case",187000.00,65450.00,2026-09-10,2026-05-23,1,0,1,0,0,0,1
+OPP-01356,"Summit Operations 296 - Professional Services - 01356",REP-012,International,"Federal Civilian",Negotiation,Commit,185000.00,148000.00,2027-03-06,2026-05-18,2,1,0,1,0,0,1
+OPP-01401,"Redwood Group 209 - Threat Protection - 01401",REP-014,Northeast,"Regulated Commercial",Discovery,Pipeline,184000.00,64400.00,2027-02-16,2026-07-17,5,0,0,0,1,0,1
+OPP-00074,"Horizon Systems 115 - Cross Domain Solutions - 00074",REP-006,Southeast,"Federal Civilian",Proposal,Commit,181000.00,117650.00,2026-10-02,2026-05-18,1,0,0,1,0,0,1
+OPP-01031,"Vanguard Networks 084 - Cross Domain Solutions - 01031",REP-012,International,"Critical Infrastructure",Prospecting,Pipeline,180000.00,18000.00,2026-11-04,2026-04-20,0,0,0,1,0,0,1
+OPP-00646,"Redwood Systems 275 - Secure Access - 00646",REP-011,International,"Regulated Commercial",Proposal,Commit,178000.00,115700.00,2026-09-22,2026-08-12,4,1,0,0,1,0,1
+OPP-00946,"Liberty Systems 001 - Secure Data Connectivity - 00946",REP-010,West,"Department of Defense",Qualification,Pipeline,176000.00,35200.00,2026-11-21,2026-05-01,0,0,0,1,0,0,1
+OPP-01150,"Redwood Operations 239 - Threat Protection - 01150",REP-010,West,"Intelligence Community",Discovery,Pipeline,175000.00,61250.00,2027-03-25,2026-04-30,1,1,0,1,0,0,1
+OPP-00119,"Blue Ridge Group 203 - Secure Access - 00119",REP-013,Mid-Atlantic,"Federal Civilian",Proposal,"Best Case",172000.00,111800.00,2026-09-16,2026-05-05,0,1,0,1,0,0,1
+OPP-01359,"Summit Networks 154 - Professional Services - 01359",REP-010,West,"Federal Civilian","Solution Validation","Best Case",171000.00,85500.00,2027-02-09,2026-05-09,1,1,0,1,0,0,1
+OPP-01387,"Vanguard Research 199 - Secure Access - 01387",REP-017,West,"Intelligence Community",Proposal,"Best Case",169000.00,109850.00,2026-11-06,2026-04-29,2,0,0,1,0,0,1
+OPP-00661,"Sentinel Command 279 - Secure Access - 00661",REP-003,Northeast,"Critical Infrastructure",Proposal,"Best Case",168000.00,109200.00,2026-10-05,2026-04-25,1,0,0,1,0,0,1
+OPP-00288,"Ironwood Group 100 - Cross Domain Solutions - 00288",REP-018,International,"Department of Defense",Negotiation,Commit,164000.00,131200.00,2026-08-29,2026-05-15,1,1,0,1,0,0,1
+OPP-00090,"Aegis Agency 082 - Secure Data Connectivity - 00090",REP-015,Southeast,"Federal Civilian",Negotiation,"Best Case",162000.00,129600.00,2026-12-05,2026-04-28,1,0,0,1,0,0,1
+OPP-00401,"Crescent Research 273 - Professional Services - 00401",REP-014,Northeast,"Intelligence Community",Negotiation,Commit,162000.00,129600.00,2026-10-22,2026-05-17,1,1,0,1,0,0,1
+OPP-01195,"Liberty Security 173 - Threat Protection - 01195",REP-010,West,"Department of Defense","Solution Validation",Pipeline,159000.00,79500.00,2026-09-15,2026-05-16,2,1,0,1,0,0,1
+OPP-00538,"Redwood Agency 304 - Insider Risk - 00538",REP-010,West,"Intelligence Community","Solution Validation",Commit,158000.00,79000.00,2026-08-22,2026-07-15,0,0,1,0,0,0,1
+OPP-00497,"Keystone Research 150 - Secure Data Connectivity - 00497",REP-014,Northeast,"Department of Defense",Prospecting,Pipeline,156000.00,15600.00,2027-01-30,2026-04-25,2,0,0,1,0,0,1
+OPP-01240,"Pioneer Infrastructure 160 - Secure Access - 01240",REP-010,West,"Allied Government",Discovery,"Best Case",149000.00,52150.00,2026-11-01,2026-07-11,0,0,1,0,0,0,1
+OPP-00003,"Harbor Operations 257 - Cross Domain Solutions - 00003",REP-017,West,"Allied Government",Proposal,"Best Case",147000.00,95550.00,2027-03-21,2026-05-10,0,1,0,1,0,0,1
+OPP-00875,"Redwood Agency 304 - Cross Domain Solutions - 00875",REP-009,West,"Intelligence Community","Solution Validation",Pipeline,147000.00,73500.00,2026-11-14,2026-04-27,0,1,0,1,0,0,1
+OPP-00689,"Crescent Research 273 - Threat Protection - 00689",REP-014,Northeast,"Intelligence Community",Proposal,"Best Case",146000.00,94900.00,2026-11-28,2026-04-25,0,0,0,1,0,0,1
+OPP-01402,"Sentinel Infrastructure 295 - Threat Protection - 01402",REP-012,International,"Allied Government",Proposal,Commit,146000.00,94900.00,2026-10-14,2026-05-05,1,0,0,1,0,0,1
+OPP-00681,"Falcon Solutions 254 - Professional Services - 00681",REP-001,Mid-Atlantic,"Regulated Commercial",Prospecting,Pipeline,141000.00,14100.00,2027-03-23,2026-04-23,1,1,0,1,0,0,1
+OPP-00939,"Sterling Infrastructure 230 - Threat Protection - 00939",REP-001,Mid-Atlantic,"Department of Defense",Prospecting,Pipeline,138000.00,13800.00,2027-02-20,2026-05-05,2,1,0,1,0,0,1
+OPP-01104,"Falcon Solutions 254 - Insider Risk - 01104",REP-013,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,138000.00,110400.00,2027-01-25,2026-07-21,1,2,0,0,0,1,1
+OPP-00154,"Northstar Technologies 121 - Secure Access - 00154",REP-010,West,"Allied Government",Qualification,Pipeline,133000.00,26600.00,2027-01-13,2026-04-23,0,0,0,1,0,0,1
+OPP-00252,"Harbor Technologies 152 - Secure Data Connectivity - 00252",REP-008,Central,"Department of Defense",Discovery,Pipeline,129000.00,45150.00,2026-09-26,2026-06-01,5,0,0,0,1,0,1
+OPP-01464,"Pioneer Infrastructure 033 - Secure Data Connectivity - 01464",REP-007,Central,"Regulated Commercial",Qualification,Pipeline,129000.00,25800.00,2027-03-16,2026-04-20,2,0,0,1,0,0,1
+OPP-00954,"Keystone Infrastructure 045 - Insider Risk - 00954",REP-002,Mid-Atlantic,"Federal Civilian",Prospecting,Pipeline,125000.00,12500.00,2026-10-23,2026-04-29,1,0,0,1,0,0,1
+OPP-01487,"Summit Solutions 161 - Cross Domain Solutions - 01487",REP-013,Mid-Atlantic,"Department of Defense",Discovery,"Best Case",123000.00,43050.00,2026-09-02,2026-06-29,1,1,1,0,0,0,1
+OPP-01210,"Vanguard Research 199 - Secure Access - 01210",REP-017,West,"Intelligence Community",Negotiation,"Best Case",122000.00,97600.00,2027-03-06,2026-04-23,1,0,0,1,0,0,1
+OPP-00869,"Redwood Systems 275 - Threat Protection - 00869",REP-011,International,"Regulated Commercial","Solution Validation","Best Case",116000.00,58000.00,2026-12-11,2026-05-04,1,0,0,1,0,0,1
+OPP-00125,"Atlas Research 189 - Threat Protection - 00125",REP-013,Mid-Atlantic,"Critical Infrastructure",Discovery,"Best Case",113000.00,39550.00,2026-09-17,2026-07-06,0,0,1,0,0,0,1
+OPP-00012,"Redwood Systems 044 - Secure Data Connectivity - 00012",REP-001,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,111000.00,88800.00,2026-08-22,2026-05-22,3,0,0,0,1,0,1
+OPP-00367,"Sentinel Systems 176 - Cross Domain Solutions - 00367",REP-014,Northeast,"Intelligence Community",Discovery,Pipeline,111000.00,38850.00,2027-02-26,2026-04-24,1,0,0,1,0,0,1
+OPP-00759,"Cedar Agency 008 - Insider Risk - 00759",REP-013,Mid-Atlantic,"Federal Civilian",Qualification,Pipeline,110000.00,22000.00,2026-09-01,2026-04-21,2,1,0,1,0,0,1
+OPP-00384,"Harbor Operations 266 - Secure Access - 00384",REP-009,West,"Federal Civilian",Proposal,Commit,108000.00,70200.00,2026-09-15,2026-05-13,1,0,0,1,0,0,1
+OPP-00336,"Sterling Research 159 - Threat Protection - 00336",REP-007,Central,"Department of Defense",Prospecting,Pipeline,106000.00,10600.00,2026-09-09,2026-05-14,0,0,0,1,0,0,1
+OPP-00224,"Keystone Services 145 - Secure Access - 00224",REP-003,Northeast,"Regulated Commercial",Proposal,Commit,105000.00,68250.00,2026-12-23,2026-08-11,3,1,0,0,1,0,1
+OPP-00541,"Atlas Technologies 308 - Secure Access - 00541",REP-003,Northeast,"Critical Infrastructure",Discovery,Pipeline,102000.00,35700.00,2026-12-30,2026-05-08,0,0,0,1,0,0,1
+OPP-00788,"Beacon Research 249 - Professional Services - 00788",REP-012,International,"Department of Defense",Discovery,Pipeline,101000.00,35350.00,2027-01-17,2026-07-23,4,0,0,0,1,0,1
+OPP-01470,"Atlas Group 124 - Threat Protection - 01470",REP-011,International,"Federal Civilian",Discovery,"Best Case",98000.00,34300.00,2026-11-01,2026-08-10,1,1,1,0,0,0,1
+OPP-00452,"Sterling Infrastructure 157 - Insider Risk - 00452",REP-016,Central,"Regulated Commercial","Solution Validation",Pipeline,96000.00,48000.00,2026-10-06,2026-05-12,2,0,0,1,0,0,1
+OPP-01477,"Beacon Services 281 - Cross Domain Solutions - 01477",REP-013,Mid-Atlantic,"Allied Government","Solution Validation",Commit,94000.00,47000.00,2027-03-13,2026-08-12,2,0,1,0,0,0,1
+OPP-00186,"Blue Ridge Services 276 - Professional Services - 00186",REP-002,Mid-Atlantic,"Department of Defense","Solution Validation",Commit,91000.00,45500.00,2026-10-12,2026-07-10,0,0,1,0,0,0,1
+OPP-00338,"Harbor Systems 119 - Professional Services - 00338",REP-011,International,"Critical Infrastructure",Discovery,Pipeline,91000.00,31850.00,2027-01-29,2026-05-16,1,0,0,1,0,0,1
+OPP-00725,"Keystone Research 150 - Professional Services - 00725",REP-003,Northeast,"Department of Defense",Negotiation,Commit,90000.00,72000.00,2026-10-06,2026-04-28,0,1,0,1,0,0,1
+OPP-00782,"Pioneer Technologies 137 - Cross Domain Solutions - 00782",REP-011,International,"Federal Civilian",Discovery,"Best Case",90000.00,31500.00,2026-12-14,2026-08-06,1,0,1,0,0,0,1
+OPP-00853,"Aegis Command 231 - Secure Access - 00853",REP-018,International,"Regulated Commercial",Proposal,"Best Case",90000.00,58500.00,2026-10-09,2026-04-19,0,0,0,1,0,0,1
+OPP-00207,"Atlas Networks 085 - Professional Services - 00207",REP-008,Central,"Intelligence Community",Proposal,Commit,89000.00,57850.00,2026-09-23,2026-04-28,2,0,0,1,0,0,1
+OPP-01257,"Northstar Research 288 - Secure Access - 01257",REP-003,Northeast,"Department of Defense",Qualification,"Best Case",89000.00,17800.00,2026-12-17,2026-06-01,0,0,1,0,0,0,1
+OPP-01187,"Pioneer Group 042 - Professional Services - 01187",REP-003,Northeast,"Intelligence Community",Negotiation,"Best Case",88000.00,70400.00,2026-10-22,2026-06-08,3,1,0,0,1,0,1
+OPP-00294,"Horizon Security 171 - Secure Data Connectivity - 00294",REP-005,Southeast,"Critical Infrastructure",Proposal,"Best Case",87000.00,56550.00,2026-09-28,2026-04-20,0,0,0,1,0,0,1
+OPP-00583,"Falcon Research 205 - Cross Domain Solutions - 00583",REP-015,Southeast,"Critical Infrastructure",Negotiation,Commit,87000.00,69600.00,2026-10-26,2026-05-10,2,1,0,1,0,0,1
+OPP-00280,"Harbor Agency 093 - Threat Protection - 00280",REP-017,West,"Regulated Commercial",Qualification,Pipeline,85000.00,17000.00,2027-01-25,2026-04-23,0,0,0,1,0,0,1
+OPP-00551,"Orion Command 143 - Insider Risk - 00551",REP-009,West,"Allied Government",Qualification,Pipeline,85000.00,17000.00,2027-01-17,2026-08-02,3,1,0,0,1,0,1
+OPP-00927,"Aegis Technologies 020 - Secure Data Connectivity - 00927",REP-008,Central,"Department of Defense",Proposal,Commit,80000.00,52000.00,2026-08-27,2026-07-11,1,2,0,0,0,1,1
+OPP-00034,"Aegis Security 235 - Insider Risk - 00034",REP-005,Southeast,"Regulated Commercial",Negotiation,"Best Case",77000.00,61600.00,2026-12-24,2026-04-23,2,0,0,1,0,0,1
+OPP-00218,"Cedar Systems 018 - Secure Access - 00218",REP-015,Southeast,"Department of Defense","Solution Validation",Commit,77000.00,38500.00,2027-01-25,2026-06-17,2,0,1,0,0,0,1
+OPP-00631,"Northstar Systems 162 - Professional Services - 00631",REP-015,Southeast,"Department of Defense",Qualification,"Best Case",69000.00,13800.00,2026-11-09,2026-06-04,1,0,1,0,0,0,1
+OPP-01313,"Liberty Security 112 - Secure Access - 01313",REP-001,Mid-Atlantic,"Regulated Commercial",Prospecting,Pipeline,65000.00,6500.00,2026-12-04,2026-08-17,3,0,0,0,1,0,1
+OPP-00613,"Pioneer Infrastructure 160 - Insider Risk - 00613",REP-009,West,"Allied Government",Qualification,Pipeline,64000.00,12800.00,2027-01-08,2026-05-12,0,0,0,1,0,0,1
+OPP-01050,"Crescent Security 006 - Professional Services - 01050",REP-014,Northeast,"Critical Infrastructure","Solution Validation",Commit,64000.00,32000.00,2027-01-17,2026-06-19,0,0,1,0,0,0,1
+OPP-00340,"Summit Command 106 - Professional Services - 00340",REP-017,West,"Allied Government",Qualification,Pipeline,60000.00,12000.00,2027-02-17,2026-05-02,1,0,0,1,0,0,1
+OPP-01225,"Keystone Command 132 - Professional Services - 01225",REP-005,Southeast,"Federal Civilian",Prospecting,Pipeline,58000.00,5800.00,2027-03-04,2026-06-03,3,0,0,0,1,0,1
+OPP-00134,"Orion Command 165 - Professional Services - 00134",REP-005,Southeast,"Critical Infrastructure","Solution Validation",Commit,57000.00,28500.00,2027-01-14,2026-07-24,1,0,1,0,0,0,1
+OPP-00644,"Redwood Operations 239 - Professional Services - 00644",REP-009,West,"Intelligence Community",Qualification,Pipeline,56000.00,11200.00,2026-11-24,2026-05-01,0,1,0,1,0,0,1
+OPP-01130,"Sentinel Group 070 - Secure Data Connectivity - 01130",REP-009,West,"Intelligence Community",Prospecting,Pipeline,50000.00,5000.00,2026-09-17,2026-05-31,3,0,0,0,1,0,1
+OPP-01063,"Sentinel Systems 176 - Professional Services - 01063",REP-004,Northeast,"Intelligence Community",Discovery,"Best Case",49000.00,17150.00,2027-01-05,2026-07-25,2,0,1,0,0,0,1
+OPP-00013,"Northstar Systems 144 - Threat Protection - 00013",REP-008,Central,"Allied Government","Solution Validation","Best Case",48000.00,24000.00,2026-09-26,2026-05-15,0,0,0,1,0,0,1
+OPP-00193,"Vanguard Networks 084 - Professional Services - 00193",REP-012,International,"Critical Infrastructure",Discovery,Pipeline,47000.00,16450.00,2026-11-20,2026-04-22,0,0,0,1,0,0,1
+OPP-00513,"Harbor Operations 065 - Professional Services - 00513",REP-006,Southeast,"Department of Defense",Qualification,Pipeline,38000.00,7600.00,2026-11-20,2026-05-13,0,0,0,1,0,0,1
+OPP-01233,"Liberty Systems 017 - Threat Protection - 01233",REP-008,Central,"Federal Civilian",Negotiation,"Best Case",36000.00,28800.00,2027-02-24,2026-05-02,0,0,0,1,0,0,1
+OPP-00070,"Cedar Networks 103 - Insider Risk - 00070",REP-014,Northeast,"Department of Defense",Proposal,Commit,34000.00,22100.00,2026-12-23,2026-05-09,1,0,0,1,0,0,1
+OPP-01362,"Liberty Services 038 - Professional Services - 01362",REP-018,International,"Critical Infrastructure",Proposal,"Best Case",33000.00,21450.00,2027-02-12,2026-04-28,1,0,0,1,0,0,1
+OPP-00203,"Horizon Technologies 074 - Secure Data Connectivity - 00203",REP-018,International,"Regulated Commercial",Proposal,"Best Case",18000000.00,11700000.00,2026-09-28,2026-05-22,0,0,0,0,0,0,0
+OPP-00044,"Falcon Agency 302 - Secure Access - 00044",REP-007,Central,"Department of Defense",Negotiation,"Best Case",15000000.00,12000000.00,2027-02-07,2026-05-31,1,1,0,0,0,0,0
+OPP-01167,"Ironwood Technologies 218 - Cross Domain Solutions - 01167",REP-016,Central,"Department of Defense",Discovery,Pipeline,4068000.00,1423800.00,2027-01-09,2026-05-23,0,0,0,0,0,0,0
+OPP-00018,"Northstar Security 282 - Cross Domain Solutions - 00018",REP-016,Central,"Federal Civilian",Proposal,Commit,3889000.00,2527850.00,2026-10-13,2026-05-24,1,0,0,0,0,0,0
+OPP-00083,"Crescent Command 031 - Threat Protection - 00083",REP-012,International,"Regulated Commercial",Prospecting,Pipeline,3318000.00,331800.00,2026-09-26,2026-05-25,1,0,0,0,0,0,0
+OPP-00437,"Summit Command 106 - Cross Domain Solutions - 00437",REP-010,West,"Allied Government",Proposal,"Best Case",2310000.00,1501500.00,2026-09-29,2026-05-19,1,0,0,0,0,0,0
+OPP-00660,"Horizon Infrastructure 128 - Secure Access - 00660",REP-006,Southeast,"Department of Defense",Qualification,Pipeline,2295000.00,459000.00,2027-01-06,2026-05-22,0,0,0,0,0,0,0
+OPP-01139,"Sentinel Command 279 - Insider Risk - 01139",REP-004,Northeast,"Critical Infrastructure",Proposal,Commit,2132000.00,1385800.00,2027-01-14,2026-05-24,1,0,0,0,0,0,0
+OPP-00563,"Atlas Networks 085 - Threat Protection - 00563",REP-016,Central,"Intelligence Community",Discovery,Pipeline,2046000.00,716100.00,2027-01-21,2026-07-01,2,1,0,0,0,0,0
+OPP-00322,"Ironwood Agency 061 - Secure Data Connectivity - 00322",REP-016,Central,"Allied Government",Prospecting,Pipeline,1951000.00,195100.00,2026-08-30,2026-08-05,0,0,0,0,0,0,0
+OPP-01231,"Beacon Solutions 086 - Cross Domain Solutions - 01231",REP-007,Central,"Federal Civilian",Discovery,Pipeline,1948000.00,681800.00,2026-08-24,2026-07-23,0,0,0,0,0,0,0
+OPP-01207,"Ironwood Solutions 192 - Insider Risk - 01207",REP-013,Mid-Atlantic,"Federal Civilian",Qualification,Pipeline,1928000.00,385600.00,2026-09-07,2026-07-20,0,0,0,0,0,0,0
+OPP-01485,"Ironwood Services 303 - Insider Risk - 01485",REP-013,Mid-Atlantic,"Regulated Commercial",Discovery,Pipeline,1889000.00,661150.00,2026-09-27,2026-06-02,1,0,0,0,0,0,0
+OPP-00729,"Liberty Networks 027 - Secure Data Connectivity - 00729",REP-010,West,"Intelligence Community",Proposal,"Best Case",1867000.00,1213550.00,2026-08-29,2026-07-17,0,1,0,0,0,0,0
+OPP-00156,"Harbor Group 021 - Insider Risk - 00156",REP-010,West,"Federal Civilian","Solution Validation","Best Case",1783000.00,891500.00,2027-01-18,2026-08-08,1,0,0,0,0,0,0
+OPP-01244,"Harbor Agency 024 - Secure Data Connectivity - 01244",REP-002,Mid-Atlantic,"Federal Civilian","Solution Validation",Pipeline,1676000.00,838000.00,2027-02-18,2026-07-14,1,1,0,0,0,0,0
+OPP-00137,"Summit Command 214 - Professional Services - 00137",REP-007,Central,"Department of Defense","Solution Validation",Pipeline,1650000.00,825000.00,2027-01-13,2026-08-05,0,0,0,0,0,0,0
+OPP-00111,"Northstar Networks 245 - Secure Data Connectivity - 00111",REP-016,Central,"Critical Infrastructure","Solution Validation","Best Case",1644000.00,822000.00,2027-01-03,2026-06-26,0,0,0,0,0,0,0
+OPP-00579,"Liberty Networks 184 - Insider Risk - 00579",REP-016,Central,"Department of Defense",Negotiation,Commit,1619000.00,1295200.00,2027-02-23,2026-08-04,2,0,0,0,0,0,0
+OPP-00214,"Atlas Command 035 - Cross Domain Solutions - 00214",REP-002,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,1567000.00,1253600.00,2027-01-11,2026-06-26,0,1,0,0,0,0,0
+OPP-01282,"Aegis Security 156 - Secure Data Connectivity - 01282",REP-005,Southeast,"Intelligence Community",Proposal,Commit,1436000.00,933400.00,2026-11-20,2026-07-31,0,0,0,0,0,0,0
+OPP-00293,"Liberty Infrastructure 109 - Cross Domain Solutions - 00293",REP-003,Northeast,"Critical Infrastructure",Negotiation,"Best Case",1429000.00,0.00,2027-03-23,2026-06-03,0,0,0,0,0,0,0
+OPP-00634,"Falcon Agency 004 - Threat Protection - 00634",REP-002,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,1396000.00,1116800.00,2026-11-15,2026-07-19,2,1,0,0,0,0,0
+OPP-00765,"Summit Security 092 - Cross Domain Solutions - 00765",REP-014,Northeast,"Department of Defense",Prospecting,Pipeline,1394000.00,139400.00,2027-03-13,2026-05-21,1,0,0,0,0,0,0
+OPP-01438,"Summit Solutions 317 - Secure Data Connectivity - 01438",REP-011,International,"Intelligence Community","Solution Validation",Pipeline,1369000.00,684500.00,2026-09-26,2026-07-02,0,0,0,0,0,0,0
+OPP-00851,"Blue Ridge Solutions 108 - Cross Domain Solutions - 00851",REP-010,West,"Allied Government",Proposal,Commit,1351000.00,878150.00,2026-12-05,2026-08-04,0,1,0,0,0,0,0
+OPP-00609,"Harbor Group 021 - Cross Domain Solutions - 00609",REP-009,West,"Federal Civilian",Negotiation,Commit,1335000.00,1068000.00,2026-08-25,2026-08-14,0,0,0,0,0,0,0
+OPP-00388,"Liberty Agency 251 - Secure Access - 00388",REP-010,West,"Allied Government","Solution Validation","Best Case",1330000.00,665000.00,2027-02-27,2026-07-03,0,1,0,0,0,0,0
+OPP-00392,"Blue Ridge Security 131 - Secure Data Connectivity - 00392",REP-009,West,"Critical Infrastructure","Solution Validation","Best Case",1310000.00,655000.00,2026-10-03,2026-07-15,0,1,0,0,0,0,0
+OPP-00664,"Atlas Group 124 - Secure Access - 00664",REP-012,International,"Federal Civilian",Prospecting,Pipeline,1294000.00,129400.00,2026-10-18,2026-06-26,0,1,0,0,0,0,0
+OPP-00474,"Sterling Solutions 265 - Cross Domain Solutions - 00474",REP-016,Central,"Department of Defense",Prospecting,Pipeline,1286000.00,128600.00,2027-03-10,2026-06-12,0,0,0,0,0,0,0
+OPP-00104,"Blue Ridge Group 287 - Insider Risk - 00104",REP-007,Central,"Regulated Commercial",Negotiation,"Best Case",1279000.00,1023200.00,2026-12-08,2026-06-02,0,0,0,0,0,0,0
+OPP-00133,"Pioneer Research 258 - Secure Data Connectivity - 00133",REP-007,Central,"Department of Defense",Negotiation,Commit,1279000.00,1023200.00,2027-01-07,2026-08-09,1,0,0,0,0,0,0
+OPP-00442,"Redwood Operations 095 - Threat Protection - 00442",REP-012,International,"Regulated Commercial",Proposal,Commit,1233000.00,801450.00,2027-03-02,2026-07-19,1,0,0,0,0,0,0
+OPP-01364,"Orion Operations 292 - Insider Risk - 01364",REP-002,Mid-Atlantic,"Critical Infrastructure",Proposal,"Best Case",1231000.00,800150.00,2026-11-26,2026-07-22,0,0,0,0,0,0,0
+OPP-01004,"Harbor Technologies 238 - Cross Domain Solutions - 01004",REP-001,Mid-Atlantic,"Federal Civilian",Qualification,Pipeline,1209000.00,241800.00,2026-11-25,2026-07-16,2,0,0,0,0,0,0
+OPP-00516,"Sentinel Command 279 - Insider Risk - 00516",REP-003,Northeast,"Critical Infrastructure","Solution Validation",Pipeline,1182000.00,1182000.00,2026-09-02,2026-06-21,0,0,0,0,0,0,0
+OPP-00183,"Ironwood Services 187 - Cross Domain Solutions - 00183",REP-006,Southeast,"Department of Defense",Qualification,Pipeline,1161000.00,232200.00,2027-03-23,2026-07-21,0,0,0,0,0,0,0
+OPP-01280,"Sterling Operations 032 - Cross Domain Solutions - 01280",REP-006,Southeast,"Department of Defense",Negotiation,"Best Case",1147000.00,917600.00,2026-11-16,2026-07-20,1,1,0,0,0,0,0
+OPP-00753,"Sentinel Security 118 - Secure Access - 00753",REP-012,International,"Regulated Commercial",Negotiation,Commit,1136000.00,908800.00,2026-11-25,2026-06-17,1,0,0,0,0,0,0
+OPP-01424,"Falcon Group 320 - Insider Risk - 01424",REP-002,Mid-Atlantic,"Regulated Commercial","Solution Validation","Best Case",1120000.00,56000.00,2027-02-16,2026-08-06,2,1,0,0,0,0,0
+OPP-00999,"Falcon Group 320 - Cross Domain Solutions - 00999",REP-013,Mid-Atlantic,"Regulated Commercial",Proposal,Commit,1106000.00,718900.00,2026-09-17,2026-07-05,0,0,0,0,0,0,0
+OPP-00617,"Liberty Solutions 272 - Secure Data Connectivity - 00617",REP-006,Southeast,"Federal Civilian",Negotiation,Commit,1093000.00,874400.00,2026-11-23,2026-06-20,2,0,0,0,0,0,0
+OPP-00624,"Falcon Technologies 064 - Threat Protection - 00624",REP-004,Northeast,"Intelligence Community",Prospecting,Pipeline,1081000.00,108100.00,2027-03-02,2026-08-02,1,0,0,0,0,0,0
+OPP-00640,"Keystone Research 208 - Threat Protection - 00640",REP-010,West,"Federal Civilian","Solution Validation","Best Case",1053000.00,526500.00,2026-11-26,2026-07-03,0,1,0,0,0,0,0
+OPP-00781,"Horizon Research 196 - Secure Access - 00781",REP-018,International,"Federal Civilian",Negotiation,Commit,1049000.00,839200.00,2027-01-12,2026-06-11,0,0,0,0,0,0,0
+OPP-00594,"Crescent Operations 294 - Cross Domain Solutions - 00594",REP-003,Northeast,"Regulated Commercial",Proposal,"Best Case",1032000.00,670800.00,2027-03-15,2026-08-13,0,1,0,0,0,0,0
+OPP-00607,"Liberty Networks 037 - Secure Access - 00607",REP-002,Mid-Atlantic,"Federal Civilian",Proposal,"Best Case",1012000.00,657800.00,2026-10-01,2026-08-06,0,0,0,0,0,0,0
+OPP-00826,"Falcon Systems 261 - Professional Services - 00826",REP-005,Southeast,"Allied Government",Negotiation,"Best Case",996000.00,796800.00,2026-09-12,2026-07-02,0,0,0,0,0,0,0
+OPP-01024,"Blue Ridge Research 228 - Cross Domain Solutions - 01024",REP-006,Southeast,"Federal Civilian",Proposal,"Best Case",991000.00,644150.00,2026-12-25,2026-05-27,1,0,0,0,0,0,0
+OPP-00947,"Horizon Solutions 039 - Secure Access - 00947",REP-009,West,"Department of Defense",Qualification,Pipeline,965000.00,193000.00,2027-01-05,2026-07-13,1,0,0,0,0,0,0
+OPP-01363,"Keystone Agency 102 - Cross Domain Solutions - 01363",REP-012,International,"Department of Defense",Qualification,Pipeline,945000.00,189000.00,2026-10-24,2026-07-03,0,0,0,0,0,0,0
+OPP-00821,"Crescent Operations 315 - Cross Domain Solutions - 00821",REP-015,Southeast,"Intelligence Community",Discovery,Pipeline,909000.00,318150.00,2026-09-21,2026-05-28,0,0,0,0,0,0,0
+OPP-00233,"Summit Networks 154 - Secure Data Connectivity - 00233",REP-009,West,"Federal Civilian",Discovery,Pipeline,898000.00,314300.00,2026-09-27,2026-08-14,0,0,0,0,0,0,0
+OPP-00971,"Sterling Research 159 - Secure Access - 00971",REP-016,Central,"Department of Defense",Proposal,Commit,889000.00,577850.00,2027-02-21,2026-07-12,0,0,0,0,0,0,0
+OPP-01403,"Beacon Solutions 086 - Insider Risk - 01403",REP-016,Central,"Federal Civilian",Negotiation,Commit,877000.00,701600.00,2027-02-07,2026-05-31,0,0,0,0,0,0,0
+OPP-00473,"Keystone Security 051 - Insider Risk - 00473",REP-006,Southeast,"Federal Civilian",Negotiation,"Best Case",873000.00,698400.00,2026-10-19,2026-06-09,0,1,0,0,0,0,0
+OPP-00616,"Vanguard Research 199 - Threat Protection - 00616",REP-017,West,"Intelligence Community",Negotiation,Commit,860000.00,688000.00,2027-03-13,2026-06-29,1,0,0,0,0,0,0
+OPP-01263,"Sterling Solutions 265 - Insider Risk - 01263",REP-008,Central,"Department of Defense",Qualification,Pipeline,852000.00,170400.00,2026-11-27,2026-07-12,1,0,0,0,0,0,0
+OPP-00182,"Liberty Networks 184 - Secure Access - 00182",REP-008,Central,"Department of Defense",Negotiation,"Best Case",844000.00,675200.00,2027-01-26,2026-08-17,0,0,0,0,0,0,0
+OPP-00801,"Summit Infrastructure 055 - Insider Risk - 00801",REP-007,Central,"Regulated Commercial",Qualification,Pipeline,844000.00,168800.00,2026-11-13,2026-07-24,0,1,0,0,0,0,0
+OPP-00057,"Sentinel Security 049 - Cross Domain Solutions - 00057",REP-006,Southeast,"Federal Civilian",Qualification,Pipeline,832000.00,166400.00,2026-10-19,2026-07-23,2,1,0,0,0,0,0
+OPP-01378,"Orion Infrastructure 221 - Threat Protection - 01378",REP-017,West,"Intelligence Community","Solution Validation",Pipeline,817000.00,408500.00,2026-11-11,2026-06-27,2,1,0,0,0,0,0
+OPP-00761,"Beacon Agency 280 - Cross Domain Solutions - 00761",REP-001,Mid-Atlantic,"Allied Government",Prospecting,Pipeline,815000.00,81500.00,2026-11-11,2026-06-17,0,0,0,0,0,0,0
+OPP-00587,"Pioneer Group 042 - Cross Domain Solutions - 00587",REP-014,Northeast,"Intelligence Community",Qualification,Pipeline,814000.00,162800.00,2026-10-14,2026-07-05,0,0,0,0,0,0,0
+OPP-00618,"Aegis Technologies 191 - Secure Access - 00618",REP-010,West,"Critical Infrastructure",Prospecting,Pipeline,812000.00,81200.00,2026-11-18,2026-07-06,0,0,0,0,0,0,0
+OPP-00702,"Atlas Networks 300 - Threat Protection - 00702",REP-015,Southeast,"Allied Government",Proposal,Commit,812000.00,527800.00,2026-11-03,2026-07-12,1,0,0,0,0,0,0
+OPP-00269,"Summit Infrastructure 055 - Threat Protection - 00269",REP-008,Central,"Regulated Commercial","Solution Validation",Pipeline,803000.00,401500.00,2026-09-09,2026-07-22,0,0,0,0,0,0,0
+OPP-00370,"Harbor Technologies 152 - Cross Domain Solutions - 00370",REP-007,Central,"Department of Defense",Proposal,Commit,803000.00,521950.00,2026-08-23,2026-08-03,0,0,0,0,0,0,0
+OPP-00534,"Harbor Agency 099 - Secure Access - 00534",REP-018,International,"Critical Infrastructure",Discovery,Pipeline,796000.00,278600.00,2026-09-05,2026-08-13,0,0,0,0,0,0,0
+OPP-00259,"Summit Solutions 317 - Insider Risk - 00259",REP-012,International,"Intelligence Community","Solution Validation",Pipeline,792000.00,396000.00,2027-01-14,2026-06-24,1,1,0,0,0,0,0
+OPP-00979,"Horizon Research 149 - Professional Services - 00979",REP-018,International,"Department of Defense",Negotiation,Commit,786000.00,628800.00,2026-12-08,2026-08-16,1,0,0,0,0,0,0
+OPP-01317,"Horizon Security 290 - Insider Risk - 01317",REP-017,West,"Regulated Commercial",Discovery,Pipeline,779000.00,272650.00,2026-12-02,2026-08-06,2,0,0,0,0,0,0
+OPP-01221,"Aegis Group 067 - Cross Domain Solutions - 01221",REP-015,Southeast,"Department of Defense",Prospecting,Pipeline,760000.00,76000.00,2026-09-28,2026-06-25,0,0,0,0,0,0,0
+OPP-00825,"Liberty Systems 274 - Secure Data Connectivity - 00825",REP-010,West,"Department of Defense",Prospecting,Pipeline,756000.00,75600.00,2026-10-13,2026-05-21,1,0,0,0,0,0,0
+OPP-00441,"Summit Command 214 - Secure Access - 00441",REP-016,Central,"Department of Defense",Discovery,Pipeline,750000.00,262500.00,2027-02-19,2026-08-06,0,0,0,0,0,0,0
+OPP-00295,"Summit Solutions 161 - Secure Access - 00295",REP-002,Mid-Atlantic,"Department of Defense","Solution Validation","Best Case",742000.00,371000.00,2027-02-17,2026-07-14,0,0,0,0,0,0,0
+OPP-01226,"Pioneer Group 042 - Secure Access - 01226",REP-004,Northeast,"Intelligence Community",Negotiation,"Best Case",739000.00,591200.00,2027-02-07,2026-05-20,1,1,0,0,0,0,0
+OPP-00898,"Summit Agency 014 - Cross Domain Solutions - 00898",REP-006,Southeast,"Federal Civilian",Negotiation,Commit,730000.00,584000.00,2026-10-12,2026-08-12,1,0,0,0,0,0,0
+OPP-00904,"Cedar Systems 018 - Secure Data Connectivity - 00904",REP-005,Southeast,"Department of Defense",Negotiation,Commit,726000.00,580800.00,2027-01-17,2026-06-11,0,0,0,0,0,0,0
+OPP-00425,"Orion Operations 292 - Secure Data Connectivity - 00425",REP-002,Mid-Atlantic,"Critical Infrastructure",Proposal,"Best Case",723000.00,469950.00,2026-10-26,2026-07-02,0,1,0,0,0,0,0
+OPP-01198,"Crescent Group 022 - Insider Risk - 01198",REP-018,International,"Department of Defense",Proposal,Commit,708000.00,460200.00,2027-03-05,2026-06-14,0,0,0,0,0,0,0
+OPP-01264,"Pioneer Group 042 - Threat Protection - 01264",REP-003,Northeast,"Intelligence Community",Qualification,Pipeline,690000.00,138000.00,2027-02-27,2026-07-25,0,1,0,0,0,0,0
+OPP-01018,"Summit Agency 016 - Insider Risk - 01018",REP-011,International,"Federal Civilian",Discovery,Pipeline,688000.00,240800.00,2026-10-31,2026-06-06,1,0,0,0,0,0,0
+OPP-00113,"Atlas Command 035 - Secure Access - 00113",REP-001,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,674000.00,539200.00,2026-11-03,2026-08-10,0,0,0,0,0,0,0
+OPP-00727,"Harbor Security 110 - Secure Access - 00727",REP-002,Mid-Atlantic,"Federal Civilian",Qualification,Pipeline,663000.00,132600.00,2027-03-14,2026-08-04,0,0,0,0,0,0,0
+OPP-01281,"Crescent Infrastructure 013 - Threat Protection - 01281",REP-001,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,654000.00,523200.00,2026-09-18,2026-08-06,0,0,0,0,0,0,0
+OPP-00402,"Harbor Group 021 - Secure Access - 00402",REP-017,West,"Federal Civilian",Prospecting,Pipeline,642000.00,64200.00,2026-12-16,2026-07-13,0,0,0,0,0,0,0
+OPP-00217,"Keystone Technologies 111 - Secure Data Connectivity - 00217",REP-009,West,"Critical Infrastructure","Solution Validation","Best Case",641000.00,320500.00,2026-08-18,2026-07-17,0,0,0,0,0,0,0
+OPP-00246,"Aegis Command 234 - Threat Protection - 00246",REP-006,Southeast,"Allied Government","Solution Validation","Best Case",638000.00,319000.00,2026-10-23,2026-08-15,1,0,0,0,0,0,0
+OPP-01267,"Keystone Services 081 - Cross Domain Solutions - 01267",REP-004,Northeast,"Intelligence Community",Discovery,Pipeline,630000.00,220500.00,2026-08-19,2026-06-10,0,0,0,0,0,0,0
+OPP-01311,"Cedar Agency 008 - Secure Data Connectivity - 01311",REP-013,Mid-Atlantic,"Federal Civilian",Discovery,Pipeline,624000.00,218400.00,2026-08-19,2026-06-18,2,1,0,0,0,0,0
+OPP-01382,"Blue Ridge Group 203 - Cross Domain Solutions - 01382",REP-002,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,623000.00,498400.00,2027-03-15,2026-07-01,1,0,0,0,0,0,0
+OPP-00130,"Sentinel Group 182 - Threat Protection - 00130",REP-016,Central,"Federal Civilian",Proposal,"Best Case",622000.00,404300.00,2026-11-12,2026-08-01,0,0,0,0,0,0,0
+OPP-00184,"Keystone Command 132 - Cross Domain Solutions - 00184",REP-006,Southeast,"Federal Civilian",Qualification,Pipeline,621000.00,124200.00,2026-12-15,2026-08-07,0,0,0,0,0,0,0
+OPP-01471,"Crescent Agency 040 - Secure Data Connectivity - 01471",REP-007,Central,"Intelligence Community",Discovery,Pipeline,619000.00,216650.00,2026-09-05,2026-07-24,0,0,0,0,0,0,0
+OPP-01276,"Aegis Agency 069 - Secure Data Connectivity - 01276",REP-005,Southeast,"Federal Civilian",Negotiation,"Best Case",612000.00,489600.00,2026-09-06,2026-06-18,1,0,0,0,0,0,0
+OPP-01220,"Sterling Solutions 048 - Threat Protection - 01220",REP-008,Central,"Intelligence Community",Prospecting,Pipeline,608000.00,60800.00,2027-02-11,2026-08-16,0,1,0,0,0,0,0
+OPP-01070,"Liberty Networks 037 - Cross Domain Solutions - 01070",REP-002,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,601000.00,480800.00,2027-01-04,2026-05-25,1,0,0,0,0,0,0
+OPP-01265,"Liberty Infrastructure 219 - Secure Access - 01265",REP-013,Mid-Atlantic,"Regulated Commercial",Qualification,Pipeline,596000.00,119200.00,2027-03-18,2026-07-08,0,0,0,0,0,0,0
+OPP-00251,"Atlas Operations 206 - Secure Data Connectivity - 00251",REP-004,Northeast,"Federal Civilian",Discovery,Pipeline,595000.00,208250.00,2027-01-13,2026-06-01,2,1,0,0,0,0,0
+OPP-00766,"Sterling Group 305 - Threat Protection - 00766",REP-003,Northeast,"Department of Defense",Discovery,Pipeline,595000.00,208250.00,2026-12-20,2026-06-12,0,0,0,0,0,0,0
+OPP-00038,"Blue Ridge Command 312 - Secure Access - 00038",REP-008,Central,"Intelligence Community",Qualification,Pipeline,594000.00,118800.00,2026-12-06,2026-06-04,2,0,0,0,0,0,0
+OPP-01300,"Falcon Security 079 - Insider Risk - 01300",REP-008,Central,"Critical Infrastructure",Negotiation,Commit,589000.00,471200.00,2027-02-01,2026-05-19,0,0,0,0,0,0,0
+OPP-01268,"Pioneer Group 042 - Insider Risk - 01268",REP-004,Northeast,"Intelligence Community",Proposal,Commit,588000.00,382200.00,2026-10-31,2026-05-24,0,0,0,0,0,0,0
+OPP-01381,"Blue Ridge Group 298 - Secure Data Connectivity - 01381",REP-001,Mid-Atlantic,"Federal Civilian",Proposal,Commit,587000.00,381550.00,2027-01-26,2026-07-18,1,0,0,0,0,0,0
+OPP-00377,"Summit Security 092 - Cross Domain Solutions - 00377",REP-014,Northeast,"Department of Defense",Negotiation,"Best Case",586000.00,468800.00,2026-10-27,2026-07-06,1,0,0,0,0,0,0
+OPP-00936,"Keystone Services 043 - Cross Domain Solutions - 00936",REP-017,West,"Federal Civilian",Proposal,"Best Case",586000.00,380900.00,2026-10-11,2026-08-15,0,0,0,0,0,0,0
+OPP-00006,"Sterling Networks 172 - Insider Risk - 00006",REP-003,Northeast,"Allied Government",Proposal,Commit,584000.00,379600.00,2027-01-16,2026-07-21,1,1,0,0,0,0,0
+OPP-00314,"Beacon Infrastructure 129 - Threat Protection - 00314",REP-006,Southeast,"Federal Civilian",Discovery,Pipeline,583000.00,204050.00,2027-02-04,2026-06-21,0,0,0,0,0,0,0
+OPP-00610,"Aegis Agency 069 - Secure Access - 00610",REP-015,Southeast,"Federal Civilian",Discovery,Pipeline,581000.00,203350.00,2027-01-16,2026-06-25,0,0,0,0,0,0,0
+OPP-00533,"Northstar Research 288 - Secure Data Connectivity - 00533",REP-014,Northeast,"Department of Defense",Proposal,Commit,576000.00,374400.00,2026-09-10,2026-07-16,2,1,0,0,0,0,0
+OPP-00376,"Orion Solutions 253 - Secure Access - 00376",REP-007,Central,"Federal Civilian",Prospecting,Pipeline,569000.00,56900.00,2026-11-09,2026-08-10,1,1,0,0,0,0,0
+OPP-00451,"Blue Ridge Group 203 - Threat Protection - 00451",REP-013,Mid-Atlantic,"Federal Civilian",Qualification,Pipeline,565000.00,113000.00,2026-12-23,2026-07-15,0,0,0,0,0,0,0
+OPP-00199,"Keystone Command 132 - Cross Domain Solutions - 00199",REP-015,Southeast,"Federal Civilian",Qualification,Pipeline,563000.00,112600.00,2027-02-28,2026-07-28,1,0,0,0,0,0,0
+OPP-00494,"Northstar Security 213 - Cross Domain Solutions - 00494",REP-006,Southeast,"Intelligence Community",Negotiation,Commit,558000.00,446400.00,2026-09-26,2026-07-18,0,0,0,0,0,0,0
+OPP-01033,"Crescent Operations 315 - Threat Protection - 01033",REP-015,Southeast,"Intelligence Community",Negotiation,"Best Case",554000.00,554000.00,2026-10-07,2026-05-26,0,1,0,0,0,0,0
+OPP-00150,"Keystone Technologies 111 - Insider Risk - 00150",REP-010,West,"Critical Infrastructure",Negotiation,"Best Case",543000.00,434400.00,2027-03-10,2026-07-18,0,0,0,0,0,0,0
+OPP-00242,"Pioneer Infrastructure 160 - Professional Services - 00242",REP-010,West,"Allied Government","Solution Validation","Best Case",529000.00,264500.00,2026-10-06,2026-07-27,1,0,0,0,0,0,0
+OPP-00299,"Keystone Services 071 - Threat Protection - 00299",REP-002,Mid-Atlantic,"Department of Defense",Negotiation,Commit,527000.00,421600.00,2026-12-18,2026-07-26,1,0,0,0,0,0,0
+OPP-01272,"Redwood Systems 275 - Insider Risk - 01272",REP-018,International,"Regulated Commercial",Proposal,Commit,524000.00,340600.00,2027-03-03,2026-06-14,0,0,0,0,0,0,0
+OPP-01298,"Pioneer Infrastructure 160 - Secure Data Connectivity - 01298",REP-017,West,"Allied Government",Qualification,Pipeline,522000.00,104400.00,2027-01-27,2026-05-24,1,1,0,0,0,0,0
+OPP-00359,"Crescent Services 015 - Secure Data Connectivity - 00359",REP-005,Southeast,"Department of Defense",Prospecting,Pipeline,515000.00,51500.00,2026-08-28,2026-07-12,1,1,0,0,0,0,0
+OPP-00271,"Blue Ridge Solutions 108 - Secure Access - 00271",REP-017,West,"Allied Government",Proposal,"Best Case",514000.00,334100.00,2026-09-24,2026-08-04,1,0,0,0,0,0,0
+OPP-00524,"Vanguard Systems 242 - Insider Risk - 00524",REP-004,Northeast,"Intelligence Community",Negotiation,"Best Case",511000.00,408800.00,2027-02-12,2026-06-09,2,1,0,0,0,0,0
+OPP-00584,"Keystone Command 167 - Professional Services - 00584",REP-012,International,"Critical Infrastructure",Negotiation,Commit,508000.00,406400.00,2026-08-27,2026-07-02,2,1,0,0,0,0,0
+OPP-01228,"Harbor Agency 099 - Secure Access - 01228",REP-012,International,"Critical Infrastructure",Negotiation,Commit,508000.00,406400.00,2027-03-19,2026-06-14,0,0,0,0,0,0,0
+OPP-01469,"Falcon Command 291 - Cross Domain Solutions - 01469",REP-003,Northeast,"Critical Infrastructure",Discovery,Pipeline,508000.00,177800.00,2026-12-31,2026-08-03,0,0,0,0,0,0,0
+OPP-00635,"Crescent Agency 040 - Secure Access - 00635",REP-016,Central,"Intelligence Community","Solution Validation","Best Case",506000.00,253000.00,2026-09-02,2026-08-02,1,0,0,0,0,0,0
+OPP-01147,"Horizon Research 149 - Insider Risk - 01147",REP-011,International,"Department of Defense","Solution Validation","Best Case",503000.00,251500.00,2026-12-02,2026-07-05,0,0,0,0,0,0,0
+OPP-01151,"Sterling Infrastructure 059 - Cross Domain Solutions - 01151",REP-009,West,"Regulated Commercial",Prospecting,Pipeline,495000.00,49500.00,2026-08-22,2026-08-02,0,0,0,0,0,0,0
+OPP-01059,"Harbor Operations 226 - Cross Domain Solutions - 01059",REP-016,Central,"Federal Civilian",Discovery,Pipeline,493000.00,172550.00,2027-01-14,2026-07-17,1,1,0,0,0,0,0
+OPP-00738,"Orion Operations 292 - Threat Protection - 00738",REP-013,Mid-Atlantic,"Critical Infrastructure",Negotiation,Commit,492000.00,393600.00,2027-01-19,2026-06-29,0,0,0,0,0,0,0
+OPP-01078,"Atlas Solutions 255 - Cross Domain Solutions - 01078",REP-002,Mid-Atlantic,"Intelligence Community",Negotiation,Commit,491000.00,392800.00,2026-12-15,2026-07-06,2,0,0,0,0,0,0
+OPP-01028,"Pioneer Infrastructure 160 - Threat Protection - 01028",REP-010,West,"Allied Government",Proposal,Commit,487000.00,316550.00,2026-10-31,2026-07-02,2,1,0,0,0,0,0
+OPP-00487,"Ironwood Agency 061 - Secure Access - 00487",REP-016,Central,"Allied Government",Discovery,Pipeline,485000.00,169750.00,2027-03-06,2026-06-18,1,0,0,0,0,0,0
+OPP-01326,"Atlas Technologies 308 - Insider Risk - 01326",REP-003,Northeast,"Critical Infrastructure",Proposal,"Best Case",484000.00,314600.00,2026-12-14,2026-06-03,0,1,0,0,0,0,0
+OPP-01117,"Sterling Systems 194 - Threat Protection - 01117",REP-007,Central,"Allied Government",Qualification,Pipeline,482000.00,96400.00,2027-03-05,2026-06-14,2,1,0,0,0,0,0
+OPP-01417,"Crescent Operations 315 - Secure Access - 01417",REP-006,Southeast,"Intelligence Community",Proposal,"Best Case",475000.00,308750.00,2026-10-15,2026-07-09,1,1,0,0,0,0,0
+OPP-00693,"Pioneer Infrastructure 160 - Insider Risk - 00693",REP-017,West,"Allied Government",Discovery,Pipeline,474000.00,165900.00,2026-12-09,2026-07-07,0,0,0,0,0,0,0
+OPP-01143,"Falcon Networks 244 - Cross Domain Solutions - 01143",REP-002,Mid-Atlantic,"Critical Infrastructure",Negotiation,Commit,472000.00,377600.00,2027-02-03,2026-07-20,2,0,0,0,0,0,0
+OPP-00556,"Atlas Services 105 - Secure Access - 00556",REP-008,Central,"Federal Civilian","Solution Validation",Pipeline,462000.00,231000.00,2026-08-28,2026-07-01,0,1,0,0,0,0,0
+OPP-00736,"Aegis Security 136 - Secure Access - 00736",REP-017,West,"Department of Defense",Discovery,Pipeline,462000.00,161700.00,2027-01-10,2026-08-09,2,1,0,0,0,0,0
+OPP-01034,"Pioneer Command 316 - Cross Domain Solutions - 01034",REP-008,Central,"Federal Civilian",Negotiation,Commit,456000.00,364800.00,2026-11-13,2026-07-27,0,0,0,0,0,0,0
+OPP-00806,"Atlas Solutions 183 - Professional Services - 00806",REP-006,Southeast,"Allied Government",Negotiation,Commit,455000.00,364000.00,2026-12-17,2026-07-19,0,0,0,0,0,0,0
+OPP-00543,"Beacon Infrastructure 204 - Cross Domain Solutions - 00543",REP-009,West,"Critical Infrastructure",Prospecting,Pipeline,454000.00,45400.00,2026-11-11,2026-08-04,1,1,0,0,0,0,0
+OPP-00122,"Northstar Technologies 098 - Secure Data Connectivity - 00122",REP-009,West,"Regulated Commercial",Discovery,Pipeline,453000.00,158550.00,2027-01-30,2026-07-27,2,1,0,0,0,0,0
+OPP-00728,"Liberty Research 216 - Threat Protection - 00728",REP-012,International,"Regulated Commercial",Discovery,Pipeline,449000.00,157150.00,2026-11-10,2026-07-07,1,0,0,0,0,0,0
+OPP-01005,"Pioneer Command 316 - Secure Access - 01005",REP-016,Central,"Federal Civilian",Negotiation,Commit,446000.00,356800.00,2026-08-22,2026-06-22,1,0,0,0,0,0,0
+OPP-00095,"Aegis Command 283 - Cross Domain Solutions - 00095",REP-004,Northeast,"Intelligence Community",Negotiation,Commit,444000.00,355200.00,2026-10-15,2026-06-23,1,1,0,0,0,0,0
+OPP-01083,"Pioneer Solutions 139 - Insider Risk - 01083",REP-006,Southeast,"Department of Defense",Negotiation,Commit,444000.00,355200.00,2026-11-25,2026-07-08,0,0,0,0,0,0,0
+OPP-01422,"Atlas Command 052 - Secure Access - 01422",REP-016,Central,"Regulated Commercial",Proposal,"Best Case",437000.00,284050.00,2026-11-01,2026-06-19,1,0,0,0,0,0,0
+OPP-00458,"Beacon Infrastructure 166 - Threat Protection - 00458",REP-001,Mid-Atlantic,"Regulated Commercial",Proposal,"Best Case",434000.00,282100.00,2026-08-20,2026-07-19,2,0,0,0,0,0,0
+OPP-01463,"Harbor Operations 266 - Cross Domain Solutions - 01463",REP-009,West,"Federal Civilian","Solution Validation","Best Case",434000.00,217000.00,2027-01-07,2026-07-11,0,0,0,0,0,0,0
+OPP-00928,"Cedar Agency 008 - Insider Risk - 00928",REP-001,Mid-Atlantic,"Federal Civilian",Proposal,Commit,433000.00,281450.00,2027-01-17,2026-06-02,1,0,0,0,0,0,0
+OPP-00296,"Harbor Group 021 - Insider Risk - 00296",REP-009,West,"Federal Civilian",Discovery,Pipeline,432000.00,151200.00,2026-10-06,2026-06-25,1,0,0,0,0,0,0
+OPP-00565,"Ironwood Systems 207 - Secure Access - 00565",REP-011,International,"Department of Defense",Proposal,Commit,430000.00,279500.00,2026-10-29,2026-06-21,1,0,0,0,0,0,0
+OPP-01176,"Liberty Command 075 - Secure Access - 01176",REP-016,Central,"Federal Civilian",Qualification,Pipeline,430000.00,86000.00,2026-12-11,2026-07-03,1,0,0,0,0,0,0
+OPP-00406,"Cedar Systems 018 - Cross Domain Solutions - 00406",REP-006,Southeast,"Department of Defense",Proposal,Commit,425000.00,276250.00,2026-11-30,2026-07-17,1,1,0,0,0,0,0
+OPP-00943,"Vanguard Agency 019 - Threat Protection - 00943",REP-008,Central,"Department of Defense",Prospecting,Pipeline,424000.00,42400.00,2027-01-03,2026-07-28,0,0,0,0,0,0,0
+OPP-00115,"Blue Ridge Group 146 - Secure Data Connectivity - 00115",REP-003,Northeast,"Allied Government","Solution Validation",Pipeline,423000.00,211500.00,2026-11-30,2026-07-27,1,1,0,0,0,0,0
+OPP-00067,"Harbor Operations 065 - Insider Risk - 00067",REP-005,Southeast,"Department of Defense",Qualification,Pipeline,422000.00,84400.00,2026-12-27,2026-07-04,2,0,0,0,0,0,0
+OPP-00718,"Redwood Group 209 - Professional Services - 00718",REP-014,Northeast,"Regulated Commercial",Negotiation,Commit,418000.00,334400.00,2026-12-27,2026-06-22,1,0,0,0,0,0,0
+OPP-00789,"Northstar Technologies 098 - Cross Domain Solutions - 00789",REP-017,West,"Regulated Commercial","Solution Validation","Best Case",418000.00,209000.00,2026-12-05,2026-08-04,1,1,0,0,0,0,0
+OPP-01038,"Falcon Agency 302 - Cross Domain Solutions - 01038",REP-016,Central,"Department of Defense",Proposal,Commit,415000.00,269750.00,2026-11-29,2026-08-02,1,1,0,0,0,0,0
+OPP-00816,"Orion Solutions 248 - Cross Domain Solutions - 00816",REP-018,International,"Critical Infrastructure",Negotiation,Commit,413000.00,330400.00,2026-10-06,2026-07-21,0,1,0,0,0,0,0
+OPP-01056,"Redwood Technologies 202 - Secure Access - 01056",REP-013,Mid-Atlantic,"Intelligence Community",Negotiation,"Best Case",411000.00,328800.00,2027-02-02,2026-07-30,1,0,0,0,0,0,0
+OPP-01483,"Sentinel Technologies 299 - Insider Risk - 01483",REP-013,Mid-Atlantic,"Department of Defense",Proposal,"Best Case",410000.00,266500.00,2026-09-05,2026-08-13,0,0,0,0,0,0,0
+OPP-01077,"Summit Agency 016 - Professional Services - 01077",REP-018,International,"Federal Civilian",Proposal,"Best Case",409000.00,265850.00,2026-10-01,2026-08-16,1,0,0,0,0,0,0
+OPP-00454,"Liberty Systems 017 - Insider Risk - 00454",REP-016,Central,"Federal Civilian","Solution Validation","Best Case",406000.00,203000.00,2026-12-25,2026-07-14,1,0,0,0,0,0,0
+OPP-00820,"Aegis Technologies 020 - Threat Protection - 00820",REP-016,Central,"Department of Defense",Negotiation,Commit,406000.00,324800.00,2026-12-19,2026-06-24,1,0,0,0,0,0,0
+OPP-01017,"Vanguard Systems 058 - Secure Data Connectivity - 01017",REP-003,Northeast,"Federal Civilian",Prospecting,Pipeline,403000.00,40300.00,2027-01-31,2026-07-10,1,0,0,0,0,0,0
+OPP-00523,"Falcon Networks 286 - Cross Domain Solutions - 00523",REP-014,Northeast,"Intelligence Community","Solution Validation",Pipeline,399000.00,199500.00,2026-09-25,2026-05-25,1,0,0,0,0,0,0
+OPP-00529,"Aegis Agency 069 - Threat Protection - 00529",REP-006,Southeast,"Federal Civilian",Qualification,Pipeline,399000.00,79800.00,2026-11-25,2026-05-24,1,1,0,0,0,0,0
+OPP-00854,"Falcon Research 205 - Secure Data Connectivity - 00854",REP-015,Southeast,"Critical Infrastructure",Prospecting,Pipeline,394000.00,39400.00,2026-09-13,2026-07-27,2,0,0,0,0,0,0
+OPP-01398,"Northstar Security 319 - Cross Domain Solutions - 01398",REP-008,Central,"Critical Infrastructure",Qualification,Pipeline,394000.00,78800.00,2026-10-13,2026-07-19,1,0,0,0,0,0,0
+OPP-00244,"Atlas Group 124 - Professional Services - 00244",REP-012,International,"Federal Civilian","Solution Validation","Best Case",393000.00,196500.00,2026-08-31,2026-05-25,0,1,0,0,0,0,0
+OPP-00866,"Keystone Security 051 - Secure Access - 00866",REP-006,Southeast,"Federal Civilian",Negotiation,"Best Case",393000.00,314400.00,2027-01-11,2026-07-24,0,1,0,0,0,0,0
+OPP-01166,"Crescent Operations 215 - Secure Access - 01166",REP-013,Mid-Atlantic,"Allied Government",Proposal,Commit,392000.00,254800.00,2026-11-05,2026-06-01,2,0,0,0,0,0,0
+OPP-01037,"Sentinel Command 174 - Secure Access - 01037",REP-013,Mid-Atlantic,"Critical Infrastructure",Negotiation,Commit,388000.00,310400.00,2026-08-19,2026-07-06,0,1,0,0,0,0,0
+OPP-00953,"Pioneer Technologies 137 - Cross Domain Solutions - 00953",REP-018,International,"Federal Civilian",Qualification,Pipeline,386000.00,77200.00,2027-03-09,2026-07-10,1,0,0,0,0,0,0
+OPP-00168,"Aegis Research 140 - Insider Risk - 00168",REP-009,West,"Department of Defense",Qualification,Pipeline,385000.00,77000.00,2027-01-15,2026-08-13,0,1,0,0,0,0,0
+OPP-00091,"Sentinel Command 174 - Secure Data Connectivity - 00091",REP-001,Mid-Atlantic,"Critical Infrastructure","Solution Validation",Pipeline,374000.00,187000.00,2026-11-11,2026-06-29,0,1,0,0,0,0,0
+OPP-00912,"Sterling Solutions 048 - Cross Domain Solutions - 00912",REP-016,Central,"Intelligence Community",Discovery,Pipeline,374000.00,130900.00,2027-01-19,2026-06-30,0,0,0,0,0,0,0
+OPP-00052,"Atlas Networks 300 - Secure Data Connectivity - 00052",REP-015,Southeast,"Allied Government",Prospecting,Pipeline,372000.00,37200.00,2026-09-06,2026-07-29,1,0,0,0,0,0,0
+OPP-01093,"Aegis Agency 222 - Secure Access - 01093",REP-017,West,"Critical Infrastructure",Prospecting,Pipeline,366000.00,36600.00,2026-09-29,2026-08-16,1,1,0,0,0,0,0
+OPP-01212,"Liberty Systems 169 - Insider Risk - 01212",REP-013,Mid-Atlantic,"Allied Government",Prospecting,Pipeline,365000.00,36500.00,2027-02-22,2026-08-09,0,0,0,0,0,0,0
+OPP-01003,"Aegis Command 234 - Secure Access - 01003",REP-005,Southeast,"Allied Government",Discovery,Pipeline,362000.00,126700.00,2026-12-25,2026-05-19,0,1,0,0,0,0,0
+OPP-01169,"Horizon Systems 306 - Cross Domain Solutions - 01169",REP-013,Mid-Atlantic,"Department of Defense",Prospecting,Pipeline,353000.00,35300.00,2026-11-17,2026-06-12,1,0,0,0,0,0,0
+OPP-01278,"Ironwood Technologies 218 - Secure Data Connectivity - 01278",REP-008,Central,"Department of Defense","Solution Validation","Best Case",348000.00,174000.00,2026-09-29,2026-06-13,1,0,0,0,0,0,0
+OPP-01354,"Summit Services 134 - Professional Services - 01354",REP-007,Central,"Critical Infrastructure",Discovery,Pipeline,347000.00,121450.00,2026-09-25,2026-08-15,0,0,0,0,0,0,0
+OPP-00430,"Sterling Operations 032 - Secure Data Connectivity - 00430",REP-005,Southeast,"Department of Defense",Negotiation,Commit,345000.00,276000.00,2027-02-16,2026-06-06,0,0,0,0,0,0,0
+OPP-00393,"Keystone Infrastructure 045 - Secure Access - 00393",REP-013,Mid-Atlantic,"Federal Civilian",Proposal,"Best Case",342000.00,222300.00,2026-09-11,2026-05-20,1,0,0,0,0,0,0
+OPP-00087,"Aegis Agency 069 - Professional Services - 00087",REP-006,Southeast,"Federal Civilian",Proposal,Commit,334000.00,217100.00,2027-02-11,2026-07-23,0,0,0,0,0,0,0
+OPP-01135,"Northstar Group 247 - Secure Access - 01135",REP-010,West,"Federal Civilian",Negotiation,Commit,332000.00,265600.00,2027-01-17,2026-07-26,0,0,0,0,0,0,0
+OPP-00959,"Northstar Security 213 - Secure Access - 00959",REP-005,Southeast,"Intelligence Community",Discovery,Pipeline,330000.00,115500.00,2026-11-27,2026-06-14,1,1,0,0,0,0,0
+OPP-00795,"Orion Solutions 253 - Insider Risk - 00795",REP-016,Central,"Federal Civilian","Solution Validation","Best Case",326000.00,163000.00,2026-09-18,2026-06-08,0,0,0,0,0,0,0
+OPP-01411,"Vanguard Command 123 - Insider Risk - 01411",REP-017,West,"Critical Infrastructure",Discovery,Pipeline,326000.00,114100.00,2026-12-30,2026-07-14,2,1,0,0,0,0,0
+OPP-00216,"Atlas Solutions 130 - Secure Access - 00216",REP-014,Northeast,"Federal Civilian",Negotiation,Commit,325000.00,260000.00,2026-09-18,2026-07-22,0,0,0,0,0,0,0
+OPP-00647,"Sentinel Systems 176 - Insider Risk - 00647",REP-003,Northeast,"Intelligence Community",Proposal,Commit,324000.00,210600.00,2027-01-24,2026-07-28,1,0,0,0,0,0,0
+OPP-01061,"Orion Group 009 - Secure Data Connectivity - 01061",REP-012,International,"Federal Civilian",Discovery,Pipeline,323000.00,113050.00,2026-11-17,2026-07-10,0,0,0,0,0,0,0
+OPP-00250,"Aegis Networks 232 - Secure Data Connectivity - 00250",REP-004,Northeast,"Critical Infrastructure",Proposal,"Best Case",313000.00,203450.00,2027-01-18,2026-05-20,1,1,0,0,0,0,0
+OPP-00735,"Beacon Command 090 - Secure Access - 00735",REP-013,Mid-Atlantic,"Critical Infrastructure",Discovery,Pipeline,313000.00,109550.00,2027-03-22,2026-06-09,0,0,0,0,0,0,0
+OPP-00365,"Ironwood Services 003 - Secure Data Connectivity - 00365",REP-008,Central,"Federal Civilian",Qualification,Pipeline,311000.00,62200.00,2027-01-03,2026-07-09,0,1,0,0,0,0,0
+OPP-00911,"Liberty Security 112 - Secure Access - 00911",REP-002,Mid-Atlantic,"Regulated Commercial",Qualification,Pipeline,311000.00,62200.00,2027-01-12,2026-06-18,1,0,0,0,0,0,0
+OPP-00227,"Crescent Research 273 - Secure Access - 00227",REP-003,Northeast,"Intelligence Community",Discovery,Pipeline,310000.00,108500.00,2027-02-14,2026-07-27,0,1,0,0,0,0,0
+OPP-00232,"Aegis Research 140 - Secure Access - 00232",REP-017,West,"Department of Defense",Qualification,Pipeline,307000.00,61400.00,2026-08-22,2026-06-20,1,0,0,0,0,0,0
+OPP-00346,"Harbor Group 243 - Insider Risk - 00346",REP-011,International,"Department of Defense",Prospecting,Pipeline,301000.00,30100.00,2026-10-23,2026-08-05,0,0,0,0,0,0,0
+OPP-00870,"Northstar Agency 217 - Secure Data Connectivity - 00870",REP-011,International,"Allied Government","Solution Validation",Pipeline,301000.00,150500.00,2026-12-19,2026-06-16,1,1,0,0,0,0,0
+OPP-00468,"Sentinel Security 049 - Secure Access - 00468",REP-006,Southeast,"Federal Civilian",Qualification,Pipeline,300000.00,60000.00,2026-11-17,2026-07-10,1,1,0,0,0,0,0
+OPP-00938,"Vanguard Systems 058 - Secure Data Connectivity - 00938",REP-014,Northeast,"Federal Civilian",Discovery,Pipeline,299000.00,104650.00,2027-03-10,2026-08-02,0,0,0,0,0,0,0
+OPP-00987,"Harbor Systems 119 - Professional Services - 00987",REP-011,International,"Critical Infrastructure",Negotiation,Commit,299000.00,239200.00,2026-11-13,2026-08-16,0,0,0,0,0,0,0
+OPP-00403,"Orion Agency 179 - Professional Services - 00403",REP-011,International,"Federal Civilian",Negotiation,Commit,298000.00,238400.00,2026-08-20,2026-06-28,0,0,0,0,0,0,0
+OPP-00512,"Aegis Technologies 020 - Threat Protection - 00512",REP-008,Central,"Department of Defense",Negotiation,Commit,298000.00,238400.00,2026-10-10,2026-06-26,0,0,0,0,0,0,0
+OPP-00257,"Redwood Agency 318 - Cross Domain Solutions - 00257",REP-006,Southeast,"Department of Defense",Discovery,Pipeline,297000.00,103950.00,2026-12-24,2026-06-04,0,1,0,0,0,0,0
+OPP-00417,"Ironwood Technologies 218 - Cross Domain Solutions - 00417",REP-016,Central,"Department of Defense","Solution Validation","Best Case",297000.00,148500.00,2027-01-11,2026-07-12,2,1,0,0,0,0,0
+OPP-00984,"Liberty Services 193 - Threat Protection - 00984",REP-013,Mid-Atlantic,"Regulated Commercial","Solution Validation","Best Case",297000.00,148500.00,2027-02-26,2026-05-28,0,0,0,0,0,0,0
+OPP-01064,"Sterling Infrastructure 230 - Insider Risk - 01064",REP-013,Mid-Atlantic,"Department of Defense",Proposal,Commit,297000.00,193050.00,2026-08-31,2026-07-31,0,0,0,0,0,0,0
+OPP-00960,"Aegis Command 283 - Insider Risk - 00960",REP-003,Northeast,"Intelligence Community",Prospecting,Pipeline,293000.00,29300.00,2027-01-10,2026-07-12,1,0,0,0,0,0,0
+OPP-01315,"Falcon Solutions 254 - Secure Access - 01315",REP-002,Mid-Atlantic,"Regulated Commercial",Prospecting,Pipeline,293000.00,29300.00,2027-01-27,2026-07-27,0,0,0,0,0,0,0
+OPP-00863,"Crescent Research 151 - Insider Risk - 00863",REP-012,International,"Critical Infrastructure","Solution Validation","Best Case",290000.00,145000.00,2027-03-06,2026-06-19,1,1,0,0,0,0,0
+OPP-00118,"Aegis Technologies 020 - Cross Domain Solutions - 00118",REP-007,Central,"Department of Defense",Qualification,Pipeline,289000.00,57800.00,2027-03-17,2026-05-30,0,0,0,0,0,0,0
+OPP-01016,"Crescent Agency 307 - Threat Protection - 01016",REP-017,West,"Regulated Commercial",Proposal,Commit,289000.00,187850.00,2026-09-26,2026-07-28,2,1,0,0,0,0,0
+OPP-00532,"Keystone Infrastructure 045 - Secure Access - 00532",REP-002,Mid-Atlantic,"Federal Civilian",Prospecting,Pipeline,288000.00,28800.00,2026-08-19,2026-08-04,2,0,0,0,0,0,0
+OPP-01324,"Blue Ridge Networks 034 - Professional Services - 01324",REP-001,Mid-Atlantic,"Regulated Commercial",Proposal,"Best Case",288000.00,187200.00,2026-11-27,2026-06-13,1,1,0,0,0,0,0
+OPP-00423,"Summit Solutions 317 - Cross Domain Solutions - 00423",REP-018,International,"Intelligence Community",Proposal,"Best Case",286000.00,185900.00,2026-10-24,2026-05-21,0,1,0,0,0,0,0
+OPP-00847,"Atlas Systems 089 - Threat Protection - 00847",REP-001,Mid-Atlantic,"Department of Defense",Qualification,Pipeline,285000.00,57000.00,2026-08-22,2026-07-25,1,0,0,0,0,0,0
+OPP-00379,"Redwood Command 023 - Cross Domain Solutions - 00379",REP-012,International,"Federal Civilian",Qualification,Pipeline,283000.00,56600.00,2027-02-22,2026-07-11,1,0,0,0,0,0,0
+OPP-00566,"Sterling Infrastructure 157 - Professional Services - 00566",REP-016,Central,"Regulated Commercial","Solution Validation",Pipeline,282000.00,141000.00,2027-01-07,2026-06-16,1,0,0,0,0,0,0
+OPP-01197,"Northstar Research 288 - Secure Data Connectivity - 01197",REP-004,Northeast,"Department of Defense",Proposal,"Best Case",282000.00,183300.00,2026-10-27,2026-08-02,0,0,0,0,0,0,0
+OPP-00307,"Beacon Technologies 062 - Professional Services - 00307",REP-015,Southeast,"Department of Defense",Proposal,Commit,281000.00,182650.00,2026-11-07,2026-06-08,1,0,0,0,0,0,0
+OPP-01002,"Aegis Command 231 - Professional Services - 01002",REP-018,International,"Regulated Commercial",Qualification,Pipeline,279000.00,55800.00,2027-01-04,2026-07-10,1,1,0,0,0,0,0
+OPP-01113,"Cedar Systems 018 - Secure Access - 01113",REP-015,Southeast,"Department of Defense",Proposal,Commit,277000.00,180050.00,2026-12-18,2026-06-07,0,1,0,0,0,0,0
+OPP-01419,"Orion Solutions 223 - Secure Access - 01419",REP-009,West,"Department of Defense",Proposal,Commit,275000.00,178750.00,2026-09-14,2026-06-12,1,0,0,0,0,0,0
+OPP-00742,"Atlas Solutions 130 - Threat Protection - 00742",REP-014,Northeast,"Federal Civilian",Negotiation,Commit,273000.00,218400.00,2026-10-28,2026-06-02,1,0,0,0,0,0,0
+OPP-00258,"Harbor Operations 266 - Threat Protection - 00258",REP-010,West,"Federal Civilian",Proposal,"Best Case",270000.00,256500.00,2026-11-24,2026-08-02,1,0,0,0,0,0,0
+OPP-00909,"Summit Agency 016 - Professional Services - 00909",REP-018,International,"Federal Civilian",Qualification,Pipeline,266000.00,53200.00,2027-03-24,2026-07-29,0,0,0,0,0,0,0
+OPP-01021,"Summit Technologies 083 - Secure Access - 01021",REP-015,Southeast,"Regulated Commercial",Negotiation,Commit,265000.00,212000.00,2027-02-20,2026-07-22,0,0,0,0,0,0,0
+OPP-00236,"Northstar Security 282 - Professional Services - 00236",REP-007,Central,"Federal Civilian",Proposal,Commit,264000.00,171600.00,2027-01-11,2026-07-18,0,0,0,0,0,0,0
+OPP-00372,"Summit Infrastructure 055 - Secure Data Connectivity - 00372",REP-016,Central,"Regulated Commercial",Prospecting,Pipeline,264000.00,26400.00,2026-11-02,2026-06-17,0,1,0,0,0,0,0
+OPP-01385,"Atlas Systems 089 - Professional Services - 01385",REP-013,Mid-Atlantic,"Department of Defense",Negotiation,Commit,261000.00,208800.00,2026-12-23,2026-07-27,0,1,0,0,0,0,0
+OPP-00472,"Liberty Networks 271 - Professional Services - 00472",REP-018,International,"Regulated Commercial",Discovery,Pipeline,260000.00,91000.00,2026-09-08,2026-08-08,1,1,0,0,0,0,0
+OPP-00589,"Liberty Systems 001 - Secure Access - 00589",REP-009,West,"Department of Defense",Proposal,"Best Case",260000.00,169000.00,2027-03-04,2026-05-23,1,0,0,0,0,0,0
+OPP-00019,"Sentinel Command 122 - Insider Risk - 00019",REP-016,Central,"Department of Defense","Solution Validation","Best Case",257000.00,128500.00,2026-12-25,2026-05-24,1,0,0,0,0,0,0
+OPP-01488,"Beacon Solutions 086 - Secure Access - 01488",REP-007,Central,"Federal Civilian",Negotiation,"Best Case",255000.00,204000.00,2026-09-10,2026-05-27,0,0,0,0,0,0,0
+OPP-00562,"Horizon Operations 116 - Secure Data Connectivity - 00562",REP-002,Mid-Atlantic,"Regulated Commercial",Discovery,Pipeline,254000.00,88900.00,2026-12-05,2026-07-30,0,0,0,0,0,0,0
+OPP-00890,"Sterling Infrastructure 059 - Secure Access - 00890",REP-017,West,"Regulated Commercial","Solution Validation","Best Case",254000.00,127000.00,2027-01-02,2026-08-13,0,1,0,0,0,0,0
+OPP-00311,"Keystone Solutions 056 - Secure Access - 00311",REP-015,Southeast,"Critical Infrastructure",Proposal,Commit,253000.00,164450.00,2027-02-05,2026-07-26,0,1,0,0,0,0,0
+OPP-00862,"Horizon Operations 116 - Insider Risk - 00862",REP-001,Mid-Atlantic,"Regulated Commercial","Solution Validation","Best Case",251000.00,125500.00,2026-09-19,2026-06-26,1,0,0,0,0,0,0
+OPP-01234,"Crescent Research 151 - Professional Services - 01234",REP-018,International,"Critical Infrastructure",Negotiation,"Best Case",248000.00,198400.00,2027-01-28,2026-07-15,0,0,0,0,0,0,0
+OPP-00700,"Falcon Security 079 - Secure Access - 00700",REP-008,Central,"Critical Infrastructure",Discovery,Pipeline,246000.00,86100.00,2027-02-08,2026-08-08,1,0,0,0,0,0,0
+OPP-00348,"Blue Ridge Networks 034 - Professional Services - 00348",REP-002,Mid-Atlantic,"Regulated Commercial",Negotiation,"Best Case",244000.00,195200.00,2027-03-05,2026-07-25,1,0,0,0,0,0,0
+OPP-00099,"Summit Services 134 - Insider Risk - 00099",REP-008,Central,"Critical Infrastructure","Solution Validation","Best Case",243000.00,121500.00,2026-08-21,2026-05-20,0,0,0,0,0,0,0
+OPP-00626,"Atlas Infrastructure 096 - Threat Protection - 00626",REP-002,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,242000.00,193600.00,2026-08-24,2026-05-27,1,0,0,0,0,0,0
+OPP-01259,"Horizon Solutions 039 - Threat Protection - 01259",REP-017,West,"Department of Defense",Qualification,Pipeline,242000.00,48400.00,2026-09-19,2026-05-19,2,0,0,0,0,0,0
+OPP-00215,"Vanguard Research 199 - Threat Protection - 00215",REP-017,West,"Intelligence Community",Discovery,Pipeline,241000.00,84350.00,2027-01-02,2026-08-01,2,1,0,0,0,0,0
+OPP-01238,"Cedar Agency 008 - Threat Protection - 01238",REP-002,Mid-Atlantic,"Federal Civilian",Proposal,Commit,241000.00,156650.00,2027-03-08,2026-08-17,1,0,0,0,0,0,0
+OPP-00040,"Vanguard Command 123 - Threat Protection - 00040",REP-017,West,"Critical Infrastructure",Proposal,Commit,240000.00,156000.00,2027-01-04,2026-05-22,1,1,0,0,0,0,0
+OPP-00992,"Pioneer Infrastructure 160 - Threat Protection - 00992",REP-017,West,"Allied Government",Negotiation,Commit,238000.00,238000.00,2026-09-16,2026-07-28,1,0,0,0,0,0,0
+OPP-01025,"Pioneer Command 316 - Threat Protection - 01025",REP-008,Central,"Federal Civilian",Prospecting,Pipeline,237000.00,23700.00,2027-03-15,2026-07-27,0,0,0,0,0,0,0
+OPP-00883,"Aegis Security 235 - Secure Access - 00883",REP-006,Southeast,"Regulated Commercial",Negotiation,"Best Case",233000.00,186400.00,2027-03-12,2026-07-01,1,0,0,0,0,0,0
+OPP-01085,"Blue Ridge Solutions 108 - Threat Protection - 01085",REP-009,West,"Allied Government","Solution Validation","Best Case",231000.00,115500.00,2026-12-09,2026-06-09,1,0,0,0,0,0,0
+OPP-01367,"Sentinel Security 049 - Secure Access - 01367",REP-006,Southeast,"Federal Civilian",Proposal,"Best Case",231000.00,150150.00,2027-02-05,2026-06-28,1,0,0,0,0,0,0
+OPP-00144,"Orion Systems 147 - Professional Services - 00144",REP-008,Central,"Federal Civilian",Qualification,Pipeline,229000.00,45800.00,2026-09-09,2026-08-16,1,0,0,0,0,0,0
+OPP-00353,"Falcon Command 163 - Secure Access - 00353",REP-012,International,"Regulated Commercial",Discovery,Pipeline,229000.00,80150.00,2027-02-28,2026-07-03,0,0,0,0,0,0,0
+OPP-01039,"Ironwood Services 187 - Threat Protection - 01039",REP-005,Southeast,"Department of Defense",Qualification,Pipeline,227000.00,45400.00,2026-12-06,2026-07-09,1,0,0,0,0,0,0
+OPP-00483,"Pioneer Services 135 - Cross Domain Solutions - 00483",REP-014,Northeast,"Regulated Commercial",Prospecting,Pipeline,226000.00,22600.00,2026-09-23,2026-07-27,1,0,0,0,0,0,0
+OPP-00055,"Keystone Command 167 - Insider Risk - 00055",REP-012,International,"Critical Infrastructure",Prospecting,Pipeline,222000.00,22200.00,2026-08-23,2026-08-14,1,0,0,0,0,0,0
+OPP-00261,"Summit Networks 154 - Cross Domain Solutions - 00261",REP-010,West,"Federal Civilian","Solution Validation","Best Case",221000.00,110500.00,2026-10-29,2026-06-18,0,1,0,0,0,0,0
+OPP-00277,"Falcon Networks 286 - Insider Risk - 00277",REP-003,Northeast,"Intelligence Community",Proposal,"Best Case",221000.00,143650.00,2026-09-20,2026-08-02,0,0,0,0,0,0,0
+OPP-00831,"Northstar Technologies 121 - Professional Services - 00831",REP-009,West,"Allied Government",Qualification,Pipeline,218000.00,43600.00,2027-02-18,2026-08-03,0,0,0,0,0,0,0
+OPP-01007,"Aegis Infrastructure 148 - Threat Protection - 01007",REP-013,Mid-Atlantic,"Regulated Commercial",Prospecting,Pipeline,217000.00,21700.00,2027-02-09,2026-08-11,1,0,0,0,0,0,0
+OPP-01157,"Blue Ridge Command 269 - Insider Risk - 01157",REP-006,Southeast,"Federal Civilian",Qualification,Pipeline,217000.00,43400.00,2026-09-07,2026-05-28,1,0,0,0,0,0,0
+OPP-00202,"Liberty Systems 169 - Insider Risk - 00202",REP-002,Mid-Atlantic,"Allied Government",Prospecting,Pipeline,216000.00,21600.00,2027-03-23,2026-07-28,1,0,0,0,0,0,0
+OPP-01397,"Sterling Infrastructure 230 - Professional Services - 01397",REP-013,Mid-Atlantic,"Department of Defense",Qualification,Pipeline,211000.00,42200.00,2027-01-30,2026-06-29,1,0,0,0,0,0,0
+OPP-00453,"Keystone Research 150 - Secure Access - 00453",REP-004,Northeast,"Department of Defense",Proposal,Commit,209000.00,135850.00,2027-01-20,2026-07-07,1,0,0,0,0,0,0
+OPP-00567,"Northstar Security 319 - Secure Access - 00567",REP-008,Central,"Critical Infrastructure",Prospecting,Pipeline,209000.00,20900.00,2026-08-22,2026-06-29,1,0,0,0,0,0,0
+OPP-01441,"Orion Infrastructure 221 - Secure Access - 01441",REP-009,West,"Intelligence Community",Negotiation,Commit,208000.00,166400.00,2027-03-19,2026-07-12,2,0,0,0,0,0,0
+OPP-00020,"Falcon Solutions 254 - Threat Protection - 00020",REP-002,Mid-Atlantic,"Regulated Commercial",Proposal,Commit,207000.00,134550.00,2027-01-23,2026-07-24,0,0,0,0,0,0,0
+OPP-00711,"Sentinel Technologies 299 - Threat Protection - 00711",REP-001,Mid-Atlantic,"Department of Defense",Proposal,Commit,206000.00,133900.00,2026-12-12,2026-06-15,1,0,0,0,0,0,0
+OPP-01191,"Northstar Networks 245 - Threat Protection - 01191",REP-008,Central,"Critical Infrastructure",Proposal,"Best Case",206000.00,133900.00,2026-10-07,2026-07-03,2,0,0,0,0,0,0
+OPP-00803,"Atlas Networks 300 - Insider Risk - 00803",REP-015,Southeast,"Allied Government",Qualification,Pipeline,204000.00,40800.00,2026-09-29,2026-07-09,1,0,0,0,0,0,0
+OPP-01084,"Vanguard Command 123 - Insider Risk - 01084",REP-009,West,"Critical Infrastructure",Negotiation,Commit,201000.00,160800.00,2026-08-24,2026-06-12,2,0,0,0,0,0,0
+OPP-01428,"Keystone Services 043 - Insider Risk - 01428",REP-010,West,"Federal Civilian",Negotiation,Commit,201000.00,160800.00,2026-10-04,2026-06-19,0,0,0,0,0,0,0
+OPP-01426,"Sentinel Command 122 - Secure Data Connectivity - 01426",REP-016,Central,"Department of Defense",Discovery,Pipeline,197000.00,68950.00,2026-09-10,2026-08-04,1,0,0,0,0,0,0
+OPP-01172,"Orion Systems 076 - Professional Services - 01172",REP-017,West,"Federal Civilian",Discovery,Pipeline,196000.00,68600.00,2027-02-03,2026-06-27,1,1,0,0,0,0,0
+OPP-01373,"Keystone Command 132 - Secure Data Connectivity - 01373",REP-015,Southeast,"Federal Civilian",Prospecting,Pipeline,196000.00,19600.00,2026-11-30,2026-07-05,2,0,0,0,0,0,0
+OPP-00841,"Liberty Technologies 188 - Cross Domain Solutions - 00841",REP-014,Northeast,"Department of Defense",Discovery,Pipeline,195000.00,68250.00,2026-11-05,2026-07-10,1,0,0,0,0,0,0
+OPP-00819,"Sterling Research 159 - Secure Access - 00819",REP-016,Central,"Department of Defense",Prospecting,Pipeline,194000.00,19400.00,2027-02-23,2026-07-16,0,0,0,0,0,0,0
+OPP-00920,"Crescent Research 151 - Secure Data Connectivity - 00920",REP-011,International,"Critical Infrastructure",Negotiation,Commit,194000.00,155200.00,2026-12-20,2026-07-29,1,0,0,0,0,0,0
+OPP-00713,"Horizon Infrastructure 127 - Threat Protection - 00713",REP-002,Mid-Atlantic,"Regulated Commercial","Solution Validation","Best Case",190000.00,95000.00,2026-10-08,2026-06-15,1,1,0,0,0,0,0
+OPP-00867,"Blue Ridge Group 203 - Professional Services - 00867",REP-001,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,190000.00,152000.00,2026-12-31,2026-07-24,1,0,0,0,0,0,0
+OPP-00464,"Atlas Systems 311 - Secure Access - 00464",REP-003,Northeast,"Critical Infrastructure",Prospecting,Pipeline,188000.00,18800.00,2027-03-11,2026-08-10,1,0,0,0,0,0,0
+OPP-00302,"Beacon Technologies 289 - Cross Domain Solutions - 00302",REP-014,Northeast,"Regulated Commercial",Proposal,Commit,186000.00,120900.00,2027-01-01,2026-07-03,1,1,0,0,0,0,0
+OPP-00843,"Harbor Agency 024 - Insider Risk - 00843",REP-001,Mid-Atlantic,"Federal Civilian",Proposal,"Best Case",186000.00,120900.00,2026-12-28,2026-07-09,0,0,0,0,0,0,0
+OPP-00175,"Aegis Research 140 - Insider Risk - 00175",REP-010,West,"Department of Defense",Negotiation,Commit,185000.00,148000.00,2026-12-02,2026-06-30,0,1,0,0,0,0,0
+OPP-00997,"Liberty Security 173 - Professional Services - 00997",REP-009,West,"Department of Defense",Discovery,Pipeline,185000.00,64750.00,2026-08-21,2026-08-11,2,0,0,0,0,0,0
+OPP-01125,"Summit Security 185 - Insider Risk - 01125",REP-009,West,"Critical Infrastructure",Negotiation,Commit,184000.00,147200.00,2026-10-01,2026-07-06,0,0,0,0,0,0,0
+OPP-01445,"Aegis Research 140 - Professional Services - 01445",REP-010,West,"Department of Defense",Negotiation,Commit,182000.00,145600.00,2026-08-22,2026-06-01,0,0,0,0,0,0,0
+OPP-00840,"Cedar Systems 018 - Cross Domain Solutions - 00840",REP-005,Southeast,"Department of Defense",Discovery,Pipeline,179000.00,62650.00,2027-03-08,2026-05-21,0,0,0,0,0,0,0
+OPP-00676,"Redwood Technologies 202 - Professional Services - 00676",REP-001,Mid-Atlantic,"Intelligence Community",Discovery,Pipeline,177000.00,61950.00,2026-09-15,2026-06-19,1,0,0,0,0,0,0
+OPP-01222,"Orion Command 143 - Professional Services - 01222",REP-010,West,"Allied Government",Negotiation,Commit,177000.00,141600.00,2027-03-20,2026-06-23,1,0,0,0,0,0,0
+OPP-00479,"Sterling Command 011 - Professional Services - 00479",REP-004,Northeast,"Department of Defense",Proposal,Commit,176000.00,114400.00,2027-01-23,2026-06-05,1,0,0,0,0,0,0
+OPP-00931,"Falcon Agency 004 - Secure Access - 00931",REP-013,Mid-Atlantic,"Federal Civilian",Prospecting,Pipeline,176000.00,17600.00,2027-02-14,2026-08-04,0,0,0,0,0,0,0
+OPP-01119,"Redwood Systems 044 - Professional Services - 01119",REP-001,Mid-Atlantic,"Federal Civilian","Solution Validation",Pipeline,176000.00,88000.00,2026-12-20,2026-07-31,1,0,0,0,0,0,0
+OPP-00684,"Crescent Infrastructure 278 - Secure Access - 00684",REP-003,Northeast,"Federal Civilian",Qualification,Pipeline,169000.00,33800.00,2026-11-26,2026-07-20,1,0,0,0,0,0,0
+OPP-01247,"Crescent Services 015 - Professional Services - 01247",REP-005,Southeast,"Department of Defense",Discovery,Pipeline,169000.00,59150.00,2026-11-16,2026-08-04,2,0,0,0,0,0,0
+OPP-00571,"Sentinel Technologies 299 - Insider Risk - 00571",REP-013,Mid-Atlantic,"Department of Defense",Discovery,Pipeline,168000.00,58800.00,2026-10-26,2026-07-29,1,1,0,0,0,0,0
+OPP-00064,"Blue Ridge Solutions 047 - Insider Risk - 00064",REP-017,West,"Critical Infrastructure",Qualification,Pipeline,167000.00,33400.00,2026-10-20,2026-08-12,0,0,0,0,0,0,0
+OPP-01476,"Aegis Agency 069 - Secure Data Connectivity - 01476",REP-005,Southeast,"Federal Civilian",Negotiation,"Best Case",167000.00,133600.00,2027-03-22,2026-07-26,1,0,0,0,0,0,0
+OPP-00223,"Horizon Technologies 074 - Cross Domain Solutions - 00223",REP-011,International,"Regulated Commercial",Proposal,Commit,166000.00,107900.00,2027-03-04,2026-07-05,1,0,0,0,0,0,0
+OPP-01214,"Atlas Solutions 183 - Insider Risk - 01214",REP-005,Southeast,"Allied Government",Discovery,Pipeline,166000.00,58100.00,2026-11-27,2026-07-06,0,1,0,0,0,0,0
+OPP-00674,"Northstar Security 282 - Threat Protection - 00674",REP-007,Central,"Federal Civilian",Prospecting,Pipeline,164000.00,16400.00,2026-11-24,2026-08-12,0,0,0,0,0,0,0
+OPP-01204,"Sentinel Group 182 - Insider Risk - 01204",REP-016,Central,"Federal Civilian","Solution Validation","Best Case",164000.00,82000.00,2027-02-27,2026-07-13,1,0,0,0,0,0,0
+OPP-00842,"Keystone Solutions 056 - Insider Risk - 00842",REP-005,Southeast,"Critical Infrastructure",Proposal,"Best Case",163000.00,105950.00,2026-09-30,2026-07-26,1,0,0,0,0,0,0
+OPP-01094,"Vanguard Command 164 - Secure Access - 01094",REP-007,Central,"Regulated Commercial",Proposal,Commit,161000.00,104650.00,2026-09-28,2026-08-16,2,1,0,0,0,0,0
+OPP-00887,"Atlas Networks 300 - Professional Services - 00887",REP-005,Southeast,"Allied Government",Qualification,Pipeline,160000.00,32000.00,2026-08-25,2026-08-06,1,1,0,0,0,0,0
+OPP-00952,"Harbor Operations 065 - Secure Access - 00952",REP-006,Southeast,"Department of Defense",Proposal,Commit,159000.00,103350.00,2026-10-04,2026-07-16,0,0,0,0,0,0,0
+OPP-00096,"Vanguard Systems 058 - Secure Data Connectivity - 00096",REP-003,Northeast,"Federal Civilian",Discovery,Pipeline,158000.00,55300.00,2027-01-13,2026-05-31,0,1,0,0,0,0,0
+OPP-01181,"Harbor Agency 093 - Threat Protection - 01181",REP-017,West,"Regulated Commercial",Qualification,Pipeline,154000.00,30800.00,2026-09-08,2026-08-03,1,0,0,0,0,0,0
+OPP-00287,"Keystone Research 150 - Insider Risk - 00287",REP-004,Northeast,"Department of Defense","Solution Validation","Best Case",153000.00,76500.00,2026-10-25,2026-07-31,1,1,0,0,0,0,0
+OPP-00503,"Summit Networks 284 - Professional Services - 00503",REP-015,Southeast,"Federal Civilian",Proposal,"Best Case",153000.00,99450.00,2026-10-06,2026-07-07,1,1,0,0,0,0,0
+OPP-00812,"Sentinel Infrastructure 295 - Secure Access - 00812",REP-011,International,"Allied Government",Qualification,Pipeline,153000.00,30600.00,2027-01-06,2026-05-21,1,0,0,0,0,0,0
+OPP-01404,"Falcon Networks 244 - Insider Risk - 01404",REP-002,Mid-Atlantic,"Critical Infrastructure",Discovery,Pipeline,153000.00,53550.00,2026-09-13,2026-08-07,1,0,0,0,0,0,0
+OPP-00544,"Harbor Agency 063 - Cross Domain Solutions - 00544",REP-002,Mid-Atlantic,"Federal Civilian","Solution Validation",Pipeline,152000.00,76000.00,2026-08-18,2026-08-17,0,1,0,0,0,0,0
+OPP-00124,"Blue Ridge Technologies 073 - Secure Access - 00124",REP-003,Northeast,"Critical Infrastructure",Qualification,Pipeline,150000.00,30000.00,2026-10-14,2026-06-25,2,1,0,0,0,0,0
+OPP-01097,"Summit Infrastructure 055 - Threat Protection - 01097",REP-016,Central,"Regulated Commercial",Proposal,"Best Case",150000.00,97500.00,2026-12-03,2026-08-17,1,0,0,0,0,0,0
+OPP-01308,"Blue Ridge Networks 259 - Insider Risk - 01308",REP-005,Southeast,"Intelligence Community",Negotiation,"Best Case",150000.00,120000.00,2027-02-21,2026-05-19,0,0,0,0,0,0,0
+OPP-00397,"Aegis Agency 210 - Professional Services - 00397",REP-016,Central,"Critical Infrastructure",Qualification,Pipeline,149000.00,29800.00,2027-03-13,2026-06-14,2,1,0,0,0,0,0
+OPP-00272,"Blue Ridge Networks 259 - Cross Domain Solutions - 00272",REP-005,Southeast,"Intelligence Community",Proposal,"Best Case",148000.00,96200.00,2026-10-13,2026-07-04,1,0,0,0,0,0,0
+OPP-01390,"Summit Networks 284 - Professional Services - 01390",REP-005,Southeast,"Federal Civilian",Discovery,Pipeline,147000.00,51450.00,2026-09-26,2026-06-22,1,0,0,0,0,0,0
+OPP-01163,"Ironwood Infrastructure 236 - Secure Access - 01163",REP-006,Southeast,"Federal Civilian","Solution Validation","Best Case",144000.00,72000.00,2027-03-04,2026-07-11,1,1,0,0,0,0,0
+OPP-01229,"Summit Solutions 317 - Threat Protection - 01229",REP-018,International,"Intelligence Community",Negotiation,Commit,143000.00,114400.00,2026-12-18,2026-07-16,0,0,0,0,0,0,0
+OPP-01040,"Orion Infrastructure 221 - Threat Protection - 01040",REP-010,West,"Intelligence Community",Discovery,Pipeline,141000.00,49350.00,2027-02-19,2026-08-16,2,1,0,0,0,0,0
+OPP-00672,"Northstar Technologies 098 - Threat Protection - 00672",REP-010,West,"Regulated Commercial",Discovery,Pipeline,140000.00,49000.00,2026-11-06,2026-07-28,0,0,0,0,0,0,0
+OPP-00779,"Ironwood Research 036 - Secure Access - 00779",REP-005,Southeast,"Department of Defense",Discovery,Pipeline,140000.00,49000.00,2026-12-30,2026-07-23,0,0,0,0,0,0,0
+OPP-00033,"Liberty Services 141 - Professional Services - 00033",REP-010,West,"Intelligence Community",Proposal,Commit,138000.00,89700.00,2027-01-25,2026-07-21,1,0,0,0,0,0,0
+OPP-00732,"Atlas Networks 085 - Threat Protection - 00732",REP-016,Central,"Intelligence Community","Solution Validation","Best Case",136000.00,68000.00,2026-10-03,2026-05-27,1,0,0,0,0,0,0
+OPP-00809,"Liberty Technologies 285 - Cross Domain Solutions - 00809",REP-004,Northeast,"Federal Civilian",Discovery,Pipeline,135000.00,47250.00,2027-01-21,2026-06-15,0,0,0,0,0,0,0
+OPP-01019,"Pioneer Technologies 137 - Threat Protection - 01019",REP-012,International,"Federal Civilian",Qualification,Pipeline,135000.00,27000.00,2026-11-28,2026-06-03,2,1,0,0,0,0,0
+OPP-01305,"Blue Ridge Command 312 - Secure Access - 01305",REP-008,Central,"Intelligence Community",Qualification,Pipeline,133000.00,26600.00,2026-09-23,2026-07-16,2,1,0,0,0,0,0
+OPP-00308,"Ironwood Services 187 - Threat Protection - 00308",REP-006,Southeast,"Department of Defense",Proposal,Commit,132000.00,85800.00,2026-12-09,2026-08-14,2,1,0,0,0,0,0
+OPP-00146,"Sterling Networks 172 - Professional Services - 00146",REP-003,Northeast,"Allied Government",Proposal,Commit,129000.00,83850.00,2026-10-27,2026-07-23,0,0,0,0,0,0,0
+OPP-01433,"Vanguard Agency 260 - Insider Risk - 01433",REP-017,West,"Federal Civilian",Proposal,"Best Case",129000.00,83850.00,2026-10-02,2026-07-06,0,0,0,0,0,0,0
+OPP-00486,"Blue Ridge Agency 309 - Secure Access - 00486",REP-016,Central,"Intelligence Community",Prospecting,Pipeline,128000.00,12800.00,2026-09-03,2026-08-16,0,0,0,0,0,0,0
+OPP-00734,"Liberty Networks 271 - Secure Access - 00734",REP-018,International,"Regulated Commercial",Prospecting,Pipeline,128000.00,12800.00,2026-11-10,2026-08-01,0,0,0,0,0,0,0
+OPP-01389,"Liberty Technologies 285 - Threat Protection - 01389",REP-003,Northeast,"Federal Civilian",Negotiation,Commit,128000.00,102400.00,2026-09-09,2026-05-25,1,0,0,0,0,0,0
+OPP-00342,"Keystone Command 167 - Threat Protection - 00342",REP-011,International,"Critical Infrastructure",Qualification,Pipeline,127000.00,25400.00,2026-09-02,2026-08-09,2,0,0,0,0,0,0
+OPP-01309,"Keystone Services 071 - Cross Domain Solutions - 01309",REP-002,Mid-Atlantic,"Department of Defense",Negotiation,Commit,126000.00,100800.00,2026-12-22,2026-08-15,1,1,0,0,0,0,0
+OPP-01413,"Northstar Technologies 091 - Secure Data Connectivity - 01413",REP-014,Northeast,"Department of Defense",Prospecting,Pipeline,126000.00,12600.00,2027-01-03,2026-08-07,0,0,0,0,0,0,0
+OPP-00443,"Atlas Systems 089 - Secure Access - 00443",REP-001,Mid-Atlantic,"Department of Defense","Solution Validation","Best Case",124000.00,62000.00,2027-03-20,2026-07-09,1,1,0,0,0,0,0
+OPP-00716,"Summit Systems 224 - Secure Data Connectivity - 00716",REP-008,Central,"Intelligence Community","Solution Validation","Best Case",124000.00,62000.00,2026-09-29,2026-06-01,0,0,0,0,0,0,0
+OPP-00480,"Sentinel Operations 264 - Secure Data Connectivity - 00480",REP-008,Central,"Department of Defense","Solution Validation","Best Case",121000.00,60500.00,2027-02-14,2026-05-27,0,1,0,0,0,0,0
+OPP-00763,"Aegis Command 283 - Secure Access - 00763",REP-014,Northeast,"Intelligence Community",Proposal,"Best Case",119000.00,77350.00,2027-02-12,2026-06-06,0,0,0,0,0,0,0
+OPP-00612,"Liberty Networks 184 - Professional Services - 00612",REP-007,Central,"Department of Defense",Negotiation,Commit,117000.00,93600.00,2027-02-10,2026-07-03,0,1,0,0,0,0,0
+OPP-00047,"Horizon Agency 010 - Professional Services - 00047",REP-010,West,"Department of Defense",Proposal,"Best Case",116000.00,75400.00,2027-01-31,2026-06-10,0,0,0,0,0,0,0
+OPP-00600,"Falcon Systems 261 - Professional Services - 00600",REP-006,Southeast,"Allied Government",Proposal,"Best Case",116000.00,75400.00,2027-03-01,2026-08-03,2,0,0,0,0,0,0
+OPP-01242,"Beacon Technologies 101 - Secure Access - 01242",REP-004,Northeast,"Regulated Commercial",Negotiation,Commit,115000.00,92000.00,2026-08-26,2026-06-14,2,0,0,0,0,0,0
+OPP-01446,"Orion Research 088 - Professional Services - 01446",REP-010,West,"Federal Civilian",Negotiation,"Best Case",114000.00,91200.00,2026-09-10,2026-05-24,2,0,0,0,0,0,0
+OPP-00848,"Sentinel Infrastructure 295 - Threat Protection - 00848",REP-011,International,"Allied Government",Negotiation,Commit,113000.00,90400.00,2027-01-28,2026-05-27,0,0,0,0,0,0,0
+OPP-00369,"Summit Security 185 - Professional Services - 00369",REP-010,West,"Critical Infrastructure",Discovery,Pipeline,112000.00,39200.00,2026-10-18,2026-07-10,1,0,0,0,0,0,0
+OPP-00422,"Harbor Operations 065 - Professional Services - 00422",REP-005,Southeast,"Department of Defense","Solution Validation","Best Case",112000.00,56000.00,2026-11-01,2026-08-07,0,0,0,0,0,0,0
+OPP-00754,"Liberty Systems 274 - Insider Risk - 00754",REP-009,West,"Department of Defense","Solution Validation","Best Case",112000.00,56000.00,2026-10-23,2026-08-15,0,0,0,0,0,0,0
+OPP-00374,"Falcon Networks 244 - Secure Data Connectivity - 00374",REP-013,Mid-Atlantic,"Critical Infrastructure",Prospecting,Pipeline,109000.00,10900.00,2026-11-19,2026-06-15,1,0,0,0,0,0,0
+OPP-01159,"Atlas Solutions 255 - Professional Services - 01159",REP-013,Mid-Atlantic,"Intelligence Community",Prospecting,Pipeline,109000.00,10900.00,2026-12-01,2026-06-10,0,0,0,0,0,0,0
+OPP-00004,"Sterling Systems 194 - Professional Services - 00004",REP-007,Central,"Allied Government",Discovery,Pipeline,108000.00,37800.00,2026-11-28,2026-06-17,0,0,0,0,0,0,0
+OPP-01395,"Harbor Agency 024 - Insider Risk - 01395",REP-001,Mid-Atlantic,"Federal Civilian",Proposal,Commit,108000.00,70200.00,2026-10-29,2026-07-22,2,1,0,0,0,0,0
+OPP-00143,"Harbor Operations 266 - Insider Risk - 00143",REP-009,West,"Federal Civilian",Negotiation,Commit,102000.00,81600.00,2027-02-08,2026-07-11,0,0,0,0,0,0,0
+OPP-01379,"Sterling Research 159 - Professional Services - 01379",REP-007,Central,"Department of Defense",Qualification,Pipeline,101000.00,20200.00,2027-03-03,2026-07-30,1,0,0,0,0,0,0
+OPP-00063,"Aegis Agency 082 - Secure Access - 00063",REP-015,Southeast,"Federal Civilian",Qualification,Pipeline,99000.00,19800.00,2027-02-17,2026-07-15,1,0,0,0,0,0,0
+OPP-01199,"Falcon Command 291 - Insider Risk - 01199",REP-004,Northeast,"Critical Infrastructure",Negotiation,Commit,99000.00,79200.00,2027-02-28,2026-06-14,0,0,0,0,0,0,0
+OPP-00972,"Beacon Technologies 101 - Insider Risk - 00972",REP-004,Northeast,"Regulated Commercial",Negotiation,Commit,97000.00,77600.00,2026-09-24,2026-06-14,2,0,0,0,0,0,0
+OPP-01248,"Crescent Operations 315 - Professional Services - 01248",REP-005,Southeast,"Intelligence Community",Qualification,Pipeline,97000.00,19400.00,2027-01-02,2026-06-02,2,1,0,0,0,0,0
+OPP-00710,"Crescent Operations 294 - Secure Access - 00710",REP-003,Northeast,"Regulated Commercial",Discovery,Pipeline,96000.00,33600.00,2026-12-24,2026-08-01,1,1,0,0,0,0,0
+OPP-00471,"Liberty Security 173 - Secure Data Connectivity - 00471",REP-010,West,"Department of Defense",Proposal,"Best Case",95000.00,61750.00,2027-01-31,2026-06-22,0,0,0,0,0,0,0
+OPP-01194,"Keystone Command 167 - Secure Access - 01194",REP-018,International,"Critical Infrastructure",Discovery,Pipeline,95000.00,33250.00,2026-11-09,2026-06-19,1,0,0,0,0,0,0
+OPP-01060,"Harbor Security 110 - Secure Data Connectivity - 01060",REP-001,Mid-Atlantic,"Federal Civilian",Negotiation,"Best Case",94000.00,75200.00,2027-02-09,2026-06-07,1,0,0,0,0,0,0
+OPP-01140,"Redwood Group 241 - Threat Protection - 01140",REP-001,Mid-Atlantic,"Department of Defense",Negotiation,Commit,93000.00,74400.00,2027-01-18,2026-07-15,2,0,0,0,0,0,0
+OPP-00211,"Northstar Technologies 091 - Secure Access - 00211",REP-004,Northeast,"Department of Defense",Discovery,Pipeline,91000.00,31850.00,2027-01-18,2026-08-11,1,0,0,0,0,0,0
+OPP-00552,"Liberty Systems 169 - Insider Risk - 00552",REP-001,Mid-Atlantic,"Allied Government",Negotiation,Commit,91000.00,72800.00,2026-09-18,2026-06-13,0,0,0,0,0,0,0
+OPP-00683,"Horizon Operations 270 - Professional Services - 00683",REP-013,Mid-Atlantic,"Intelligence Community",Discovery,Pipeline,90000.00,31500.00,2026-08-28,2026-08-10,0,0,0,0,0,0,0
+OPP-01436,"Blue Ridge Networks 034 - Secure Access - 01436",REP-013,Mid-Atlantic,"Regulated Commercial",Discovery,Pipeline,90000.00,31500.00,2027-01-10,2026-07-18,2,1,0,0,0,0,0
+OPP-00568,"Beacon Agency 280 - Secure Data Connectivity - 00568",REP-013,Mid-Atlantic,"Allied Government",Discovery,Pipeline,89000.00,31150.00,2026-10-15,2026-07-10,0,0,0,0,0,0,0
+OPP-00633,"Sentinel Technologies 299 - Professional Services - 00633",REP-001,Mid-Atlantic,"Department of Defense",Qualification,Pipeline,87000.00,17400.00,2026-09-15,2026-08-01,0,0,0,0,0,0,0
+OPP-00706,"Aegis Agency 210 - Professional Services - 00706",REP-016,Central,"Critical Infrastructure",Discovery,Pipeline,87000.00,30450.00,2027-03-05,2026-07-19,1,1,0,0,0,0,0
+OPP-00245,"Pioneer Agency 240 - Threat Protection - 00245",REP-015,Southeast,"Allied Government",Negotiation,Commit,84000.00,67200.00,2027-01-08,2026-07-17,1,0,0,0,0,0,0
+OPP-00527,"Pioneer Infrastructure 033 - Professional Services - 00527",REP-016,Central,"Regulated Commercial",Proposal,Commit,84000.00,54600.00,2026-08-22,2026-08-09,0,1,0,0,0,0,0
+OPP-01101,"Ironwood Group 100 - Professional Services - 01101",REP-012,International,"Department of Defense",Proposal,Commit,81000.00,52650.00,2026-11-29,2026-06-23,2,1,0,0,0,0,0
+OPP-01388,"Atlas Solutions 130 - Professional Services - 01388",REP-004,Northeast,"Federal Civilian",Proposal,Commit,81000.00,52650.00,2026-10-30,2026-08-02,1,0,0,0,0,0,0
+OPP-00412,"Pioneer Solutions 139 - Threat Protection - 00412",REP-015,Southeast,"Department of Defense",Qualification,Pipeline,79000.00,15800.00,2026-12-26,2026-07-27,1,0,0,0,0,0,0
+OPP-01009,"Keystone Operations 054 - Threat Protection - 01009",REP-003,Northeast,"Department of Defense",Proposal,"Best Case",79000.00,51350.00,2027-01-07,2026-06-21,1,0,0,0,0,0,0
+OPP-01088,"Summit Agency 016 - Professional Services - 01088",REP-018,International,"Federal Civilian",Proposal,"Best Case",79000.00,51350.00,2027-01-09,2026-06-29,0,0,0,0,0,0,0
+OPP-01341,"Orion Command 143 - Secure Data Connectivity - 01341",REP-017,West,"Allied Government",Qualification,Pipeline,79000.00,15800.00,2026-11-25,2026-07-04,0,1,0,0,0,0,0
+OPP-00398,"Pioneer Group 042 - Insider Risk - 00398",REP-014,Northeast,"Intelligence Community",Negotiation,Commit,78000.00,62400.00,2026-09-15,2026-05-22,2,1,0,0,0,0,0
+OPP-01271,"Blue Ridge Group 146 - Professional Services - 01271",REP-014,Northeast,"Allied Government",Discovery,Pipeline,76000.00,26600.00,2026-10-17,2026-08-17,1,1,0,0,0,0,0
+OPP-00162,"Ironwood Infrastructure 180 - Professional Services - 00162",REP-001,Mid-Atlantic,"Critical Infrastructure","Solution Validation",Pipeline,74000.00,37000.00,2026-09-12,2026-07-02,0,0,0,0,0,0,0
+OPP-01270,"Vanguard Systems 058 - Professional Services - 01270",REP-003,Northeast,"Federal Civilian",Discovery,Pipeline,74000.00,25900.00,2027-03-18,2026-06-15,1,1,0,0,0,0,0
+OPP-01011,"Liberty Security 112 - Insider Risk - 01011",REP-002,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,73000.00,58400.00,2026-09-10,2026-08-01,1,0,0,0,0,0,0
+OPP-00189,"Aegis Technologies 020 - Secure Access - 00189",REP-007,Central,"Department of Defense","Solution Validation","Best Case",72000.00,36000.00,2027-01-19,2026-06-22,0,0,0,0,0,0,0
+OPP-01035,"Blue Ridge Networks 034 - Secure Access - 01035",REP-013,Mid-Atlantic,"Regulated Commercial",Negotiation,"Best Case",71000.00,56800.00,2026-11-13,2026-06-03,0,1,0,0,0,0,0
+OPP-00230,"Sterling Group 305 - Threat Protection - 00230",REP-014,Northeast,"Department of Defense",Proposal,Commit,70000.00,45500.00,2026-10-24,2026-08-16,0,1,0,0,0,0,0
+OPP-01290,"Pioneer Solutions 262 - Secure Access - 01290",REP-001,Mid-Atlantic,"Critical Infrastructure",Discovery,Pipeline,69000.00,24150.00,2026-09-14,2026-08-14,0,0,0,0,0,0,0
+OPP-01450,"Falcon Services 175 - Threat Protection - 01450",REP-007,Central,"Allied Government","Solution Validation","Best Case",67000.00,33500.00,2026-11-18,2026-06-04,2,1,0,0,0,0,0
+OPP-00081,"Keystone Command 132 - Insider Risk - 00081",REP-006,Southeast,"Federal Civilian","Solution Validation",Pipeline,66000.00,33000.00,2026-11-21,2026-06-10,0,0,0,0,0,0,0
+OPP-00030,"Orion Infrastructure 227 - Professional Services - 00030",REP-014,Northeast,"Federal Civilian",Qualification,Pipeline,65000.00,13000.00,2027-02-16,2026-06-18,1,0,0,0,0,0,0
+OPP-00836,"Aegis Group 067 - Insider Risk - 00836",REP-015,Southeast,"Department of Defense",Negotiation,Commit,64000.00,51200.00,2027-02-23,2026-08-15,0,0,0,0,0,0,0
+OPP-01239,"Northstar Technologies 005 - Professional Services - 01239",REP-011,International,"Allied Government",Negotiation,Commit,64000.00,51200.00,2026-12-15,2026-07-27,2,1,0,0,0,0,0
+OPP-00548,"Aegis Command 283 - Threat Protection - 00548",REP-003,Northeast,"Intelligence Community",Negotiation,Commit,63000.00,50400.00,2027-03-03,2026-06-02,1,0,0,0,0,0,0
+OPP-01168,"Keystone Research 208 - Professional Services - 01168",REP-009,West,"Federal Civilian",Prospecting,Pipeline,63000.00,6300.00,2026-10-21,2026-08-17,1,0,0,0,0,0,0
+OPP-00505,"Keystone Infrastructure 045 - Cross Domain Solutions - 00505",REP-013,Mid-Atlantic,"Federal Civilian",Proposal,Commit,62000.00,40300.00,2027-02-14,2026-08-03,0,0,0,0,0,0,0
+OPP-00950,"Horizon Technologies 074 - Professional Services - 00950",REP-011,International,"Regulated Commercial",Negotiation,"Best Case",62000.00,49600.00,2026-12-09,2026-06-14,0,0,0,0,0,0,0
+OPP-00908,"Beacon Infrastructure 166 - Threat Protection - 00908",REP-001,Mid-Atlantic,"Regulated Commercial",Negotiation,Commit,58000.00,46400.00,2026-12-08,2026-08-14,0,0,0,0,0,0,0
+OPP-01467,"Beacon Infrastructure 129 - Threat Protection - 01467",REP-006,Southeast,"Federal Civilian","Solution Validation",Pipeline,55000.00,27500.00,2026-09-08,2026-08-14,2,0,0,0,0,0,0
+OPP-00813,"Northstar Networks 245 - Professional Services - 00813",REP-008,Central,"Critical Infrastructure",Prospecting,Pipeline,54000.00,5400.00,2026-10-14,2026-07-15,0,0,0,0,0,0,0
+OPP-00325,"Cedar Networks 252 - Threat Protection - 00325",REP-010,West,"Department of Defense",Negotiation,Commit,53000.00,42400.00,2026-12-31,2026-07-07,1,0,0,0,0,0,0
+OPP-00405,"Blue Ridge Services 276 - Insider Risk - 00405",REP-013,Mid-Atlantic,"Department of Defense",Discovery,Pipeline,53000.00,18550.00,2026-09-04,2026-08-09,0,0,0,0,0,0,0
+OPP-00696,"Sterling Command 011 - Professional Services - 00696",REP-014,Northeast,"Department of Defense",Proposal,"Best Case",53000.00,34450.00,2027-02-17,2026-05-23,0,0,0,0,0,0,0
+OPP-01475,"Orion Research 088 - Professional Services - 01475",REP-010,West,"Federal Civilian","Solution Validation","Best Case",53000.00,26500.00,2027-01-11,2026-06-27,1,0,0,0,0,0,0
+OPP-00671,"Crescent Operations 078 - Secure Access - 00671",REP-007,Central,"Allied Government",Negotiation,Commit,52000.00,41600.00,2026-12-03,2026-05-21,0,0,0,0,0,0,0
+OPP-01201,"Liberty Networks 027 - Insider Risk - 01201",REP-010,West,"Intelligence Community",Proposal,"Best Case",51000.00,33150.00,2026-10-12,2026-06-21,1,0,0,0,0,0,0
+OPP-00084,"Cedar Agency 008 - Secure Data Connectivity - 00084",REP-002,Mid-Atlantic,"Federal Civilian",Qualification,Pipeline,50000.00,10000.00,2027-01-30,2026-07-13,1,1,0,0,0,0,0
+OPP-00201,"Summit Technologies 138 - Professional Services - 00201",REP-013,Mid-Atlantic,"Department of Defense",Negotiation,Commit,50000.00,40000.00,2027-03-15,2026-07-16,0,0,0,0,0,0,0
+OPP-00289,"Orion Agency 179 - Secure Access - 00289",REP-018,International,"Federal Civilian",Discovery,Pipeline,49000.00,17150.00,2026-10-26,2026-08-15,0,0,0,0,0,0,0
+OPP-01045,"Orion Systems 076 - Professional Services - 01045",REP-017,West,"Federal Civilian",Prospecting,Pipeline,48000.00,4800.00,2027-01-11,2026-07-01,1,0,0,0,0,0,0
+OPP-00977,"Harbor Command 053 - Threat Protection - 00977",REP-007,Central,"Allied Government",Qualification,Pipeline,46000.00,9200.00,2026-11-12,2026-08-17,0,1,0,0,0,0,0
+OPP-01425,"Redwood Operations 095 - Professional Services - 01425",REP-011,International,"Regulated Commercial",Negotiation,Commit,44000.00,35200.00,2026-11-25,2026-07-18,1,0,0,0,0,0,0
+OPP-00312,"Crescent Infrastructure 013 - Professional Services - 00312",REP-013,Mid-Atlantic,"Federal Civilian",Negotiation,Commit,41000.00,32800.00,2026-11-23,2026-07-08,2,0,0,0,0,0,0
+OPP-00773,"Falcon Technologies 064 - Secure Access - 00773",REP-003,Northeast,"Intelligence Community",Negotiation,Commit,40000.00,32000.00,2026-11-27,2026-05-28,2,0,0,0,0,0,0
+OPP-00530,"Harbor Technologies 238 - Professional Services - 00530",REP-013,Mid-Atlantic,"Federal Civilian","Solution Validation","Best Case",38000.00,19000.00,2027-03-01,2026-07-28,1,1,0,0,0,0,0
+OPP-00852,"Orion Solutions 248 - Professional Services - 00852",REP-012,International,"Critical Infrastructure",Qualification,Pipeline,36000.00,7200.00,2027-01-25,2026-05-25,0,0,0,0,0,0,0
+OPP-01235,"Orion Systems 076 - Threat Protection - 01235",REP-010,West,"Federal Civilian",Qualification,Pipeline,36000.00,7200.00,2027-03-25,2026-07-27,1,0,0,0,0,0,0
+OPP-00112,"Summit Services 134 - Professional Services - 00112",REP-007,Central,"Critical Infrastructure",Proposal,"Best Case",35000.00,22750.00,2026-11-11,2026-07-15,0,0,0,0,0,0,0
+OPP-01098,"Sterling Research 159 - Professional Services - 01098",REP-007,Central,"Department of Defense",Qualification,Pipeline,29000.00,5800.00,2027-03-20,2026-08-08,0,0,0,0,0,0,0
+OPP-01461,"Northstar Technologies 098 - Professional Services - 01461",REP-010,West,"Regulated Commercial",Proposal,Commit,26000.00,16900.00,2026-12-26,2026-06-11,1,1,0,0,0,0,0
+OPP-00205,"Horizon Research 196 - Professional Services - 00205",REP-018,International,"Federal Civilian",Discovery,Pipeline,25000.00,8750.00,2027-01-01,2026-07-04,2,0,0,0,0,0,0
+OPP-00871,"Crescent Operations 215 - Professional Services - 00871",REP-001,Mid-Atlantic,"Allied Government",Proposal,"Best Case",18000.00,11700.00,2027-01-19,2026-08-12,0,1,0,0,0,0,0
+OPP-01318,"Aegis Agency 210 - Professional Services - 01318",REP-016,Central,"Critical Infrastructure",Prospecting,Pipeline,17000.00,1700.00,2027-01-09,2026-08-14,1,0,0,0,0,0,0

@@ -1,0 +1,40 @@
+# ============================================
+# Sales Intelligence & Forecasting
+# GitHub Publication Exclusions
+# ============================================
+
+# Temporary and operating system files
+*.tmp
+*.bak
+~$*
+Thumbs.db
+.DS_Store
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Superseded / corrupted SQL file
+02_SQL/02_data_profile.sql
+
+# Salesforce Data Loader logs
+04_Salesforce_Simulation/04_Opportunity_Upsert_Test_Logs/
+04_Salesforce_Simulation/05_Opportunity_Upsert_Full_Logs/
+
+# Salesforce import staging and backup files
+04_Salesforce_Simulation/salesforce_opportunities_import_*
+
+# Local Salesforce accounts import file
+/salesforce_accounts_import.csv
+
+# Local diagnostic logs
+*.log
+
+# Documentation backups
+07_Documentation/Documentation_Backups/
+
+# Power BI working backup
+05_PowerBI/Sales_Intelligence_Master.pbix
